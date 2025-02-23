@@ -1,0 +1,657 @@
+{
+  "Liverpool": {
+    "lat": 53.4094,
+    "lon": -2.9785,
+    "pop": 513441
+  },
+  "Caerdydd": {
+    "lat": 51.4833,
+    "lon": -3.1833,
+    "pop": 488153
+  },
+  "Abertawe": {
+    "lat": 51.6167,
+    "lon": -3.95,
+    "pop": 245508
+  },
+  "Newport": {
+    "lat": 51.5886,
+    "lon": -2.9978,
+    "pop": 159600
+  },
+  "Birkenhead": {
+    "lat": 53.393,
+    "lon": -3.014,
+    "pop": 142968
+  },
+  "Saint Helens": {
+    "lat": 53.4542,
+    "lon": -2.7361,
+    "pop": 102629
+  },
+  "Chester": {
+    "lat": 53.19,
+    "lon": -2.89,
+    "pop": 87507
+  },
+  "Weston-super-Mare": {
+    "lat": 51.346,
+    "lon": -2.977,
+    "pop": 76143
+  },
+  "Shrewsbury": {
+    "lat": 52.708,
+    "lon": -2.754,
+    "pop": 71715
+  },
+  "Rhondda": {
+    "lat": 51.6159,
+    "lon": -3.4175,
+    "pop": 69506
+  },
+  "Runcorn": {
+    "lat": 53.3417,
+    "lon": -2.7313,
+    "pop": 61789
+  },
+  "Wrecsam": {
+    "lat": 53.046,
+    "lon": -2.993,
+    "pop": 61603
+  },
+  "Widnes": {
+    "lat": 53.362,
+    "lon": -2.7341,
+    "pop": 61464
+  },
+  "Ellesmere Port": {
+    "lat": 53.279,
+    "lon": -2.897,
+    "pop": 61090
+  },
+  "Wallasey": {
+    "lat": 53.4158,
+    "lon": -3.0233,
+    "pop": 60284
+  },
+  "Bebington": {
+    "lat": 53.35,
+    "lon": -3.003,
+    "pop": 57336
+  },
+  "Hereford": {
+    "lat": 52.056,
+    "lon": -2.716,
+    "pop": 53112
+  },
+  "Crosby": {
+    "lat": 53.4872,
+    "lon": -3.0343,
+    "pop": 51789
+  },
+  "Barri": {
+    "lat": 51.405,
+    "lon": -3.27,
+    "pop": 51502
+  },
+  "Bootle": {
+    "lat": 53.4457,
+    "lon": -2.9891,
+    "pop": 51394
+  },
+  "Neath": {
+    "lat": 51.66,
+    "lon": -3.81,
+    "pop": 50658
+  },
+  "Pen-y-Bont ar Ogwr": {
+    "lat": 51.507,
+    "lon": -3.578,
+    "pop": 49404
+  },
+  "Cwmbran": {
+    "lat": 51.653,
+    "lon": -3.021,
+    "pop": 48535
+  },
+  "Kirkby": {
+    "lat": 53.48,
+    "lon": -2.89,
+    "pop": 45564
+  },
+  "Merthyr Tudful": {
+    "lat": 51.743,
+    "lon": -3.378,
+    "pop": 43820
+  },
+  "Caerphilly": {
+    "lat": 51.578,
+    "lon": -3.218,
+    "pop": 41402
+  },
+  "Skelmersdale": {
+    "lat": 53.55,
+    "lon": -2.776,
+    "pop": 38813
+  },
+  "Port Talbot": {
+    "lat": 51.5906,
+    "lon": -3.7986,
+    "pop": 37276
+  },
+  "Llanelli": {
+    "lat": 51.684,
+    "lon": -4.163,
+    "pop": 37050
+  },
+  "Huyton": {
+    "lat": 53.4111,
+    "lon": -2.8403,
+    "pop": 33193
+  },
+  "Pontypridd": {
+    "lat": 51.602,
+    "lon": -3.342,
+    "pop": 31206
+  },
+  "Pont-y-p\u0175l": {
+    "lat": 51.703,
+    "lon": -3.041,
+    "pop": 29062
+  },
+  "Rhyl": {
+    "lat": 53.321,
+    "lon": -3.48,
+    "pop": 25149
+  },
+  "Portishead": {
+    "lat": 51.484,
+    "lon": -2.7626,
+    "pop": 25000
+  },
+  "Ormskirk": {
+    "lat": 53.5665,
+    "lon": -2.8869,
+    "pop": 24073
+  },
+  "Formby": {
+    "lat": 53.5586,
+    "lon": -3.0666,
+    "pop": 22419
+  },
+  "Litherland": {
+    "lat": 53.4727,
+    "lon": -2.999,
+    "pop": 22242
+  },
+  "Penarth": {
+    "lat": 51.43,
+    "lon": -3.17,
+    "pop": 22083
+  },
+  "Clevedon": {
+    "lat": 51.438,
+    "lon": -2.854,
+    "pop": 22000
+  },
+  "Llandudno": {
+    "lat": 53.3225,
+    "lon": -3.825,
+    "pop": 20701
+  },
+  "Maghull": {
+    "lat": 53.5174,
+    "lon": -2.9449,
+    "pop": 20444
+  },
+  "Halewood": {
+    "lat": 53.3599,
+    "lon": -2.84,
+    "pop": 20116
+  },
+  "Burnham-on-Sea": {
+    "lat": 51.2376,
+    "lon": -2.9935,
+    "pop": 19576
+  },
+  "Ystrad Mynach": {
+    "lat": 51.6419,
+    "lon": -3.2405,
+    "pop": 19204
+  },
+  "Prestatyn": {
+    "lat": 53.331,
+    "lon": -3.405,
+    "pop": 19085
+  },
+  "Ebbw Vale": {
+    "lat": 51.78,
+    "lon": -3.21,
+    "pop": 18558
+  },
+  "Appley Bridge": {
+    "lat": 53.579,
+    "lon": -2.721,
+    "pop": 18500
+  },
+  "Moreton": {
+    "lat": 53.401,
+    "lon": -3.111,
+    "pop": 17670
+  },
+  "Maesteg": {
+    "lat": 51.61,
+    "lon": -3.65,
+    "pop": 17580
+  },
+  "Morriston": {
+    "lat": 51.6647,
+    "lon": -3.9389,
+    "pop": 16928
+  },
+  "Fazakerley": {
+    "lat": 53.4676,
+    "lon": -2.9408,
+    "pop": 16786
+  },
+  "Connahs Quay": {
+    "lat": 53.218,
+    "lon": -3.057,
+    "pop": 16771
+  },
+  "The Mumbles": {
+    "lat": 51.573,
+    "lon": -3.9992,
+    "pop": 16600
+  },
+  "Bangor": {
+    "lat": 53.228,
+    "lon": -4.128,
+    "pop": 16358
+  },
+  "Upton": {
+    "lat": 53.385,
+    "lon": -3.099,
+    "pop": 16130
+  },
+  "Buckley": {
+    "lat": 53.172,
+    "lon": -3.086,
+    "pop": 16127
+  },
+  "Porthcawl": {
+    "lat": 51.48,
+    "lon": -3.69,
+    "pop": 15640
+  },
+  "Nailsea": {
+    "lat": 51.43,
+    "lon": -2.76,
+    "pop": 15630
+  },
+  "Oswestry": {
+    "lat": 52.8598,
+    "lon": -3.0538,
+    "pop": 15613
+  },
+  "Seacombe": {
+    "lat": 53.409,
+    "lon": -3.029,
+    "pop": 15387
+  },
+  "Llantrisant": {
+    "lat": 51.542,
+    "lon": -3.375,
+    "pop": 15313
+  },
+  "Neston": {
+    "lat": 53.289,
+    "lon": -3.074,
+    "pop": 15221
+  },
+  "Bidston": {
+    "lat": 53.402,
+    "lon": -3.078,
+    "pop": 15216
+  },
+  "New Brighton": {
+    "lat": 53.432,
+    "lon": -3.049,
+    "pop": 15149
+  },
+  "Tredegar": {
+    "lat": 51.7776,
+    "lon": -3.2407,
+    "pop": 15103
+  },
+  "Bromborough": {
+    "lat": 53.336,
+    "lon": -2.978,
+    "pop": 14850
+  },
+  "Conwy": {
+    "lat": 53.28,
+    "lon": -3.83,
+    "pop": 14723
+  },
+  "Aberdare": {
+    "lat": 51.713,
+    "lon": -3.445,
+    "pop": 14506
+  },
+  "Deysbrook": {
+    "lat": 53.429,
+    "lon": -2.934,
+    "pop": 14490
+  },
+  "West Derby": {
+    "lat": 53.4338,
+    "lon": -2.907,
+    "pop": 14382
+  },
+  "Rock Ferry": {
+    "lat": 53.373,
+    "lon": -3.008,
+    "pop": 14298
+  },
+  "Weston": {
+    "lat": 53.413,
+    "lon": -2.798,
+    "pop": 14263
+  },
+  "Pemberton": {
+    "lat": 53.536,
+    "lon": -2.6738,
+    "pop": 13982
+  },
+  "Eastham": {
+    "lat": 53.313,
+    "lon": -2.962,
+    "pop": 13882
+  },
+  "Milford Haven": {
+    "lat": 51.7142,
+    "lon": -5.0427,
+    "pop": 13725
+  },
+  "Childwall": {
+    "lat": 53.395,
+    "lon": -2.881,
+    "pop": 13640
+  },
+  "Heswall": {
+    "lat": 53.328,
+    "lon": -3.099,
+    "pop": 13401
+  },
+  "Standish": {
+    "lat": 53.586,
+    "lon": -2.664,
+    "pop": 13278
+  },
+  "Dingle": {
+    "lat": 53.3774,
+    "lon": -2.9613,
+    "pop": 13246
+  },
+  "Caerfyrddin": {
+    "lat": 51.856,
+    "lon": -4.316,
+    "pop": 13148
+  },
+  "Aberystwyth": {
+    "lat": 52.414,
+    "lon": -4.081,
+    "pop": 13040
+  },
+  "Flint": {
+    "lat": 53.2482,
+    "lon": -3.1358,
+    "pop": 12953
+  },
+  "Woolton": {
+    "lat": 53.374,
+    "lon": -2.865,
+    "pop": 12921
+  },
+  "Ainsdale": {
+    "lat": 53.6021,
+    "lon": -3.0405,
+    "pop": 12723
+  },
+  "Chepstow": {
+    "lat": 51.642,
+    "lon": -2.675,
+    "pop": 12350
+  },
+  "Tonyrefail": {
+    "lat": 51.584,
+    "lon": -3.4306,
+    "pop": 12301
+  },
+  "Thatto Heath": {
+    "lat": 53.4352,
+    "lon": -2.7481,
+    "pop": 12280
+  },
+  "Hwlffordd": {
+    "lat": 51.8,
+    "lon": -4.97,
+    "pop": 12042
+  },
+  "Leominster": {
+    "lat": 52.2282,
+    "lon": -2.7385,
+    "pop": 11959
+  },
+  "Bargoed": {
+    "lat": 51.69,
+    "lon": -3.24,
+    "pop": 11900
+  },
+  "Risca": {
+    "lat": 51.608,
+    "lon": -3.091,
+    "pop": 11693
+  },
+  "Bryn": {
+    "lat": 53.499,
+    "lon": -2.657,
+    "pop": 11662
+  },
+  "Abertillery": {
+    "lat": 51.73,
+    "lon": -3.13,
+    "pop": 11601
+  },
+  "Blundellsands": {
+    "lat": 53.48,
+    "lon": -3.05,
+    "pop": 11514
+  },
+  "Holyhead": {
+    "lat": 53.309,
+    "lon": -4.633,
+    "pop": 11431
+  },
+  "Haydock": {
+    "lat": 53.4678,
+    "lon": -2.6609,
+    "pop": 11416
+  },
+  "Newtown": {
+    "lat": 52.5132,
+    "lon": -3.3141,
+    "pop": 11357
+  },
+  "Knowsley": {
+    "lat": 53.4498,
+    "lon": -2.8501,
+    "pop": 11343
+  },
+  "Burtonwood": {
+    "lat": 53.4302,
+    "lon": -2.6614,
+    "pop": 11265
+  },
+  "Mountain Ash": {
+    "lat": 51.6814,
+    "lon": -3.3792,
+    "pop": 11230
+  },
+  "Prescot": {
+    "lat": 53.4286,
+    "lon": -2.8064,
+    "pop": 11184
+  },
+  "Llandybie": {
+    "lat": 51.82,
+    "lon": -4.001,
+    "pop": 10994
+  },
+  "Colwyn Bay": {
+    "lat": 53.29,
+    "lon": -3.7,
+    "pop": 10981
+  },
+  "Rainhill": {
+    "lat": 53.4157,
+    "lon": -2.7625,
+    "pop": 10853
+  },
+  "Earlestown": {
+    "lat": 53.45,
+    "lon": -2.65,
+    "pop": 10830
+  },
+  "Abergele": {
+    "lat": 53.28,
+    "lon": -3.58,
+    "pop": 10577
+  },
+  "Monmouth": {
+    "lat": 51.81,
+    "lon": -2.72,
+    "pop": 10508
+  },
+  "Eccleston": {
+    "lat": 53.4539,
+    "lon": -2.7748,
+    "pop": 10433
+  },
+  "Ludlow": {
+    "lat": 52.368,
+    "lon": -2.718,
+    "pop": 10266
+  },
+  "Rogerstone": {
+    "lat": 51.5906,
+    "lon": -3.0537,
+    "pop": 10158
+  },
+  "Whitchurch": {
+    "lat": 52.969,
+    "lon": -2.682,
+    "pop": 10141
+  },
+  "Abergavenny": {
+    "lat": 51.824,
+    "lon": -3.0167,
+    "pop": 10078
+  },
+  "Mold": {
+    "lat": 53.166,
+    "lon": -3.133,
+    "pop": 10058
+  },
+  "Aberaman": {
+    "lat": 51.7,
+    "lon": -3.4333,
+    "pop": 9964
+  },
+  "Burscough": {
+    "lat": 53.596,
+    "lon": -2.843,
+    "pop": 9935
+  },
+  "Caldicot": {
+    "lat": 51.591,
+    "lon": -2.7492,
+    "pop": 9813
+  },
+  "Pembroke Dock": {
+    "lat": 51.693,
+    "lon": -4.946,
+    "pop": 9753
+  },
+  "Rhosllanerchrugog": {
+    "lat": 53.011,
+    "lon": -3.052,
+    "pop": 9694
+  },
+  "Caernarfon": {
+    "lat": 53.14,
+    "lon": -4.27,
+    "pop": 9615
+  },
+  "Shevington": {
+    "lat": 53.572,
+    "lon": -2.69,
+    "pop": 9517
+  },
+  "Llantwit Major": {
+    "lat": 51.4062,
+    "lon": -3.475,
+    "pop": 9486
+  },
+  "Frodsham": {
+    "lat": 53.2947,
+    "lon": -2.7289,
+    "pop": 9300
+  },
+  "Aberbargoed": {
+    "lat": 51.6968,
+    "lon": -3.224,
+    "pop": 9184
+  },
+  "Yatton": {
+    "lat": 51.3855,
+    "lon": -2.8256,
+    "pop": 9176
+  },
+  "Pencoed": {
+    "lat": 51.5228,
+    "lon": -3.5047,
+    "pop": 9166
+  },
+  "Pontardulais": {
+    "lat": 51.71,
+    "lon": -4.04,
+    "pop": 9073
+  },
+  "Denbigh": {
+    "lat": 53.1854,
+    "lon": -3.4178,
+    "pop": 8986
+  },
+  "Holywell": {
+    "lat": 53.274,
+    "lon": -3.223,
+    "pop": 8886
+  },
+  "Rhymney": {
+    "lat": 51.759,
+    "lon": -3.283,
+    "pop": 8845
+  },
+  "Ammanford": {
+    "lat": 51.8,
+    "lon": -3.993,
+    "pop": 8610
+  },
+  "Bedwas": {
+    "lat": 51.5926,
+    "lon": -3.2061,
+    "pop": 8512
+  }
+}

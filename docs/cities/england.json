@@ -1,0 +1,4917 @@
+{
+  "London": {
+    "lat": 51.5072,
+    "lon": -0.1275,
+    "pop": 11262000
+  },
+  "Birmingham": {
+    "lat": 52.48,
+    "lon": -1.9025,
+    "pop": 2919600
+  },
+  "Portsmouth": {
+    "lat": 50.8058,
+    "lon": -1.0872,
+    "pop": 855679
+  },
+  "Southampton": {
+    "lat": 50.9025,
+    "lon": -1.4042,
+    "pop": 855569
+  },
+  "Leeds": {
+    "lat": 53.7975,
+    "lon": -1.5436,
+    "pop": 789194
+  },
+  "Nottingham": {
+    "lat": 52.9561,
+    "lon": -1.1512,
+    "pop": 729977
+  },
+  "Bristol": {
+    "lat": 51.4536,
+    "lon": -2.5975,
+    "pop": 707412
+  },
+  "Manchester": {
+    "lat": 53.479,
+    "lon": -2.2452,
+    "pop": 547627
+  },
+  "Sheffield": {
+    "lat": 53.3808,
+    "lon": -1.4703,
+    "pop": 518090
+  },
+  "Leicester": {
+    "lat": 52.6344,
+    "lon": -1.1319,
+    "pop": 508916
+  },
+  "Worthing": {
+    "lat": 50.8147,
+    "lon": -0.3714,
+    "pop": 474485
+  },
+  "Stoke-on-Trent": {
+    "lat": 53.0,
+    "lon": -2.1833,
+    "pop": 372775
+  },
+  "Coventry": {
+    "lat": 52.4081,
+    "lon": -1.5106,
+    "pop": 362690
+  },
+  "Reading": {
+    "lat": 51.4542,
+    "lon": -0.9731,
+    "pop": 337108
+  },
+  "Kingston upon Hull": {
+    "lat": 53.7444,
+    "lon": -0.3325,
+    "pop": 314018
+  },
+  "Bradford": {
+    "lat": 53.8,
+    "lon": -1.75,
+    "pop": 293277
+  },
+  "Bolton": {
+    "lat": 53.578,
+    "lon": -2.429,
+    "pop": 285372
+  },
+  "Derby": {
+    "lat": 52.9247,
+    "lon": -1.478,
+    "pop": 270468
+  },
+  "Plymouth": {
+    "lat": 50.3714,
+    "lon": -4.1422,
+    "pop": 267918
+  },
+  "Westminster": {
+    "lat": 51.4947,
+    "lon": -0.1353,
+    "pop": 255324
+  },
+  "Wolverhampton": {
+    "lat": 52.5833,
+    "lon": -2.1333,
+    "pop": 250970
+  },
+  "Northampton": {
+    "lat": 52.2304,
+    "lon": -0.8938,
+    "pop": 245899
+  },
+  "Barnsley": {
+    "lat": 53.5547,
+    "lon": -1.4791,
+    "pop": 245199
+  },
+  "Swindon": {
+    "lat": 51.56,
+    "lon": -1.78,
+    "pop": 222193
+  },
+  "Norwich": {
+    "lat": 52.6286,
+    "lon": 1.2928,
+    "pop": 213166
+  },
+  "Luton": {
+    "lat": 51.8783,
+    "lon": -0.4147,
+    "pop": 213052
+  },
+  "Milton Keynes": {
+    "lat": 52.04,
+    "lon": -0.76,
+    "pop": 207057
+  },
+  "Solihull": {
+    "lat": 52.413,
+    "lon": -1.778,
+    "pop": 206674
+  },
+  "Islington": {
+    "lat": 51.544,
+    "lon": -0.1027,
+    "pop": 206125
+  },
+  "Peterborough": {
+    "lat": 52.5661,
+    "lon": -0.2364,
+    "pop": 194000
+  },
+  "Croydon": {
+    "lat": 51.3727,
+    "lon": -0.1099,
+    "pop": 192064
+  },
+  "Bournemouth": {
+    "lat": 50.72,
+    "lon": -1.88,
+    "pop": 187503
+  },
+  "Basildon": {
+    "lat": 51.58,
+    "lon": 0.49,
+    "pop": 185900
+  },
+  "Maidstone": {
+    "lat": 51.272,
+    "lon": 0.529,
+    "pop": 176700
+  },
+  "Ilford": {
+    "lat": 51.5575,
+    "lon": 0.0858,
+    "pop": 168168
+  },
+  "Warrington": {
+    "lat": 53.39,
+    "lon": -2.59,
+    "pop": 165456
+  },
+  "Huddersfield": {
+    "lat": 53.645,
+    "lon": -1.7798,
+    "pop": 162949
+  },
+  "Southend": {
+    "lat": 51.55,
+    "lon": 0.71,
+    "pop": 160257
+  },
+  "Enfield": {
+    "lat": 51.6522,
+    "lon": -0.0808,
+    "pop": 156858
+  },
+  "Oxford": {
+    "lat": 51.75,
+    "lon": -1.25,
+    "pop": 152000
+  },
+  "Ipswich": {
+    "lat": 52.0594,
+    "lon": 1.1556,
+    "pop": 151562
+  },
+  "Harrow": {
+    "lat": 51.5836,
+    "lon": -0.3464,
+    "pop": 149246
+  },
+  "West Bromwich": {
+    "lat": 52.519,
+    "lon": -1.995,
+    "pop": 146386
+  },
+  "Gloucester": {
+    "lat": 51.8667,
+    "lon": -2.25,
+    "pop": 145563
+  },
+  "Poole": {
+    "lat": 50.7167,
+    "lon": -1.9833,
+    "pop": 144800
+  },
+  "Telford": {
+    "lat": 52.6766,
+    "lon": -2.4469,
+    "pop": 142723
+  },
+  "Preston": {
+    "lat": 53.83,
+    "lon": -2.735,
+    "pop": 141801
+  },
+  "York": {
+    "lat": 53.96,
+    "lon": -1.08,
+    "pop": 141685
+  },
+  "Blackpool": {
+    "lat": 53.8142,
+    "lon": -3.0503,
+    "pop": 139305
+  },
+  "Stockport": {
+    "lat": 53.4083,
+    "lon": -2.1494,
+    "pop": 137130
+  },
+  "Brighton": {
+    "lat": 50.8208,
+    "lon": -0.1375,
+    "pop": 134293
+  },
+  "Sale": {
+    "lat": 53.424,
+    "lon": -2.322,
+    "pop": 134022
+  },
+  "Lincoln": {
+    "lat": 53.2283,
+    "lon": -0.5389,
+    "pop": 130200
+  },
+  "Tottenham": {
+    "lat": 51.5975,
+    "lon": -0.0681,
+    "pop": 129237
+  },
+  "Exeter": {
+    "lat": 50.7256,
+    "lon": -3.5269,
+    "pop": 124180
+  },
+  "Cambridge": {
+    "lat": 52.2053,
+    "lon": 0.1192,
+    "pop": 123867
+  },
+  "Romford": {
+    "lat": 51.5768,
+    "lon": 0.1801,
+    "pop": 122854
+  },
+  "Colchester": {
+    "lat": 51.8917,
+    "lon": 0.903,
+    "pop": 121859
+  },
+  "High Wycombe": {
+    "lat": 51.6287,
+    "lon": -0.7482,
+    "pop": 120256
+  },
+  "Slough": {
+    "lat": 51.5084,
+    "lon": -0.5881,
+    "pop": 119070
+  },
+  "Blackburn": {
+    "lat": 53.748,
+    "lon": -2.482,
+    "pop": 117963
+  },
+  "Cheltenham": {
+    "lat": 51.9,
+    "lon": -2.0667,
+    "pop": 116447
+  },
+  "Chelmsford": {
+    "lat": 51.73,
+    "lon": 0.48,
+    "pop": 115369
+  },
+  "Rochdale": {
+    "lat": 53.61,
+    "lon": -2.16,
+    "pop": 110194
+  },
+  "Wythenshawe": {
+    "lat": 53.392,
+    "lon": -2.264,
+    "pop": 110000
+  },
+  "Sutton Coldfield": {
+    "lat": 52.563,
+    "lon": -1.822,
+    "pop": 109899
+  },
+  "Doncaster": {
+    "lat": 53.5231,
+    "lon": -1.1339,
+    "pop": 109805
+  },
+  "Rotherham": {
+    "lat": 53.43,
+    "lon": -1.357,
+    "pop": 109691
+  },
+  "Walthamstow": {
+    "lat": 51.584,
+    "lon": -0.021,
+    "pop": 109424
+  },
+  "Basingstoke": {
+    "lat": 51.2667,
+    "lon": -1.0876,
+    "pop": 107355
+  },
+  "Crawley": {
+    "lat": 51.1092,
+    "lon": -0.1872,
+    "pop": 106597
+  },
+  "Dagenham": {
+    "lat": 51.5397,
+    "lon": 0.1422,
+    "pop": 106247
+  },
+  "Gillingham": {
+    "lat": 51.0375,
+    "lon": -2.2748,
+    "pop": 11756
+  },
+  "Halifax": {
+    "lat": 53.725,
+    "lon": -1.863,
+    "pop": 104100
+  },
+  "Salford": {
+    "lat": 53.483,
+    "lon": -2.2931,
+    "pop": 103886
+  },
+  "Wigan": {
+    "lat": 53.5448,
+    "lon": -2.6318,
+    "pop": 103608
+  },
+  "Hounslow": {
+    "lat": 51.4668,
+    "lon": -0.375,
+    "pop": 103337
+  },
+  "Wembley": {
+    "lat": 51.5528,
+    "lon": -0.2979,
+    "pop": 102856
+  },
+  "Worcester": {
+    "lat": 52.1911,
+    "lon": -2.2206,
+    "pop": 101891
+  },
+  "Eastbourne": {
+    "lat": 50.77,
+    "lon": 0.28,
+    "pop": 101547
+  },
+  "Wakefield": {
+    "lat": 53.6825,
+    "lon": -1.4975,
+    "pop": 99251
+  },
+  "Oldham": {
+    "lat": 53.5444,
+    "lon": -2.1169,
+    "pop": 96555
+  },
+  "Hammersmith": {
+    "lat": 51.4928,
+    "lon": -0.2229,
+    "pop": 95996
+  },
+  "Rayleigh": {
+    "lat": 51.5864,
+    "lon": 0.6049,
+    "pop": 95580
+  },
+  "Hemel Hempstead": {
+    "lat": 51.7526,
+    "lon": -0.4692,
+    "pop": 94932
+  },
+  "Bath": {
+    "lat": 51.38,
+    "lon": -2.36,
+    "pop": 94782
+  },
+  "Hayes": {
+    "lat": 51.378,
+    "lon": 0.0192,
+    "pop": 15906
+  },
+  "Wimbledon": {
+    "lat": 51.422,
+    "lon": -0.208,
+    "pop": 92765
+  },
+  "Bedford": {
+    "lat": 52.135,
+    "lon": -0.47,
+    "pop": 92407
+  },
+  "Hove": {
+    "lat": 50.8352,
+    "lon": -0.1758,
+    "pop": 91900
+  },
+  "Southport": {
+    "lat": 53.6475,
+    "lon": -3.0053,
+    "pop": 91703
+  },
+  "Hastings": {
+    "lat": 50.85,
+    "lon": 0.57,
+    "pop": 91053
+  },
+  "Orpington": {
+    "lat": 51.3741,
+    "lon": 0.0986,
+    "pop": 90315
+  },
+  "Watford": {
+    "lat": 51.655,
+    "lon": -0.3957,
+    "pop": 90301
+  },
+  "Stevenage": {
+    "lat": 51.9017,
+    "lon": -0.2019,
+    "pop": 89663
+  },
+  "Grimsby": {
+    "lat": 53.5675,
+    "lon": -0.08,
+    "pop": 88243
+  },
+  "Bromley": {
+    "lat": 51.407,
+    "lon": 0.021,
+    "pop": 87889
+  },
+  "Fulham": {
+    "lat": 51.4828,
+    "lon": -0.195,
+    "pop": 87161
+  },
+  "Nuneaton": {
+    "lat": 52.523,
+    "lon": -1.468,
+    "pop": 86552
+  },
+  "Ealing": {
+    "lat": 51.5175,
+    "lon": -0.2988,
+    "pop": 85014
+  },
+  "Woolwich": {
+    "lat": 51.488,
+    "lon": 0.063,
+    "pop": 84959
+  },
+  "Aylesbury": {
+    "lat": 51.8168,
+    "lon": -0.8124,
+    "pop": 83407
+  },
+  "Ashford": {
+    "lat": 51.434,
+    "lon": -0.464,
+    "pop": 27382
+  },
+  "Edmonton": {
+    "lat": 51.6154,
+    "lon": -0.0708,
+    "pop": 82472
+  },
+  "Saint Albans": {
+    "lat": 51.755,
+    "lon": -0.336,
+    "pop": 82146
+  },
+  "Harlow": {
+    "lat": 51.779,
+    "lon": 0.128,
+    "pop": 82059
+  },
+  "Burnley": {
+    "lat": 53.789,
+    "lon": -2.248,
+    "pop": 82002
+  },
+  "Redditch": {
+    "lat": 52.3,
+    "lon": -1.9333,
+    "pop": 81919
+  },
+  "Batley": {
+    "lat": 53.7167,
+    "lon": -1.6356,
+    "pop": 80485
+  },
+  "Scunthorpe": {
+    "lat": 53.5809,
+    "lon": -0.6502,
+    "pop": 79977
+  },
+  "Dudley": {
+    "lat": 52.508,
+    "lon": -2.089,
+    "pop": 79379
+  },
+  "Bury": {
+    "lat": 53.593,
+    "lon": -2.298,
+    "pop": 78729
+  },
+  "Eastleigh": {
+    "lat": 50.9667,
+    "lon": -1.35,
+    "pop": 78716
+  },
+  "Brixton": {
+    "lat": 51.4575,
+    "lon": -0.1175,
+    "pop": 78536
+  },
+  "Southall": {
+    "lat": 51.5111,
+    "lon": -0.3756,
+    "pop": 78253
+  },
+  "Bracknell": {
+    "lat": 51.416,
+    "lon": -0.749,
+    "pop": 77256
+  },
+  "Guildford": {
+    "lat": 51.2365,
+    "lon": -0.5703,
+    "pop": 77057
+  },
+  "Chatham": {
+    "lat": 51.37,
+    "lon": 0.52,
+    "pop": 76792
+  },
+  "East Ham": {
+    "lat": 51.5323,
+    "lon": 0.0554,
+    "pop": 76186
+  },
+  "Newcastle under Lyme": {
+    "lat": 53.0109,
+    "lon": -2.2278,
+    "pop": 75082
+  },
+  "Burton upon Trent": {
+    "lat": 52.8019,
+    "lon": -1.6367,
+    "pop": 75074
+  },
+  "Gravesend": {
+    "lat": 51.4415,
+    "lon": 0.3685,
+    "pop": 74000
+  },
+  "Tamworth": {
+    "lat": 52.633,
+    "lon": -1.695,
+    "pop": 73924
+  },
+  "Harrogate": {
+    "lat": 53.9919,
+    "lon": -1.5378,
+    "pop": 73576
+  },
+  "Crewe": {
+    "lat": 53.099,
+    "lon": -2.44,
+    "pop": 73241
+  },
+  "Gosport": {
+    "lat": 50.7948,
+    "lon": -1.1243,
+    "pop": 71529
+  },
+  "Lowestoft": {
+    "lat": 52.48,
+    "lon": 1.75,
+    "pop": 70945
+  },
+  "Rugby": {
+    "lat": 52.37,
+    "lon": -1.26,
+    "pop": 70627
+  },
+  "Stafford": {
+    "lat": 52.807,
+    "lon": -2.117,
+    "pop": 70592
+  },
+  "Chingford": {
+    "lat": 51.623,
+    "lon": 0.009,
+    "pop": 70583
+  },
+  "Uxbridge": {
+    "lat": 51.5404,
+    "lon": -0.4778,
+    "pop": 70560
+  },
+  "Mansfield": {
+    "lat": 53.1444,
+    "lon": -1.1964,
+    "pop": 69987
+  },
+  "Cannock": {
+    "lat": 52.691,
+    "lon": -2.027,
+    "pop": 67768
+  },
+  "Walsall": {
+    "lat": 52.58,
+    "lon": -1.98,
+    "pop": 67594
+  },
+  "Grays": {
+    "lat": 51.475,
+    "lon": 0.33,
+    "pop": 66843
+  },
+  "Godalming": {
+    "lat": 51.1855,
+    "lon": -0.6155,
+    "pop": 66773
+  },
+  "Walton upon Thames": {
+    "lat": 51.3868,
+    "lon": -0.4133,
+    "pop": 66566
+  },
+  "Finchley": {
+    "lat": 51.599,
+    "lon": -0.187,
+    "pop": 65812
+  },
+  "Thornton Heath": {
+    "lat": 51.4002,
+    "lon": -0.1086,
+    "pop": 65812
+  },
+  "Torquay": {
+    "lat": 50.47,
+    "lon": -3.53,
+    "pop": 65245
+  },
+  "Farnborough": {
+    "lat": 51.3591,
+    "lon": 0.0741,
+    "pop": 14632
+  },
+  "Kensington": {
+    "lat": 51.5,
+    "lon": -0.19,
+    "pop": 64681
+  },
+  "Boston": {
+    "lat": 52.974,
+    "lon": -0.0214,
+    "pop": 64600
+  },
+  "Paignton": {
+    "lat": 50.4353,
+    "lon": -3.5625,
+    "pop": 64410
+  },
+  "Waterlooville": {
+    "lat": 50.88,
+    "lon": -1.03,
+    "pop": 64350
+  },
+  "Guiseley": {
+    "lat": 53.875,
+    "lon": -1.706,
+    "pop": 64000
+  },
+  "Bognor Regis": {
+    "lat": 50.7824,
+    "lon": -0.6764,
+    "pop": 63885
+  },
+  "Hornchurch": {
+    "lat": 51.5565,
+    "lon": 0.2128,
+    "pop": 63583
+  },
+  "Maidenhead": {
+    "lat": 51.5217,
+    "lon": -0.7177,
+    "pop": 63580
+  },
+  "Mitcham": {
+    "lat": 51.4009,
+    "lon": -0.1517,
+    "pop": 63393
+  },
+  "Feltham": {
+    "lat": 51.4496,
+    "lon": -0.4089,
+    "pop": 63368
+  },
+  "Stourbridge": {
+    "lat": 52.4575,
+    "lon": -2.1479,
+    "pop": 63298
+  },
+  "Rochester": {
+    "lat": 51.375,
+    "lon": 0.5,
+    "pop": 62982
+  },
+  "Dewsbury": {
+    "lat": 53.691,
+    "lon": -1.633,
+    "pop": 62945
+  },
+  "Woking": {
+    "lat": 51.305,
+    "lon": -0.539,
+    "pop": 62796
+  },
+  "Sittingbourne": {
+    "lat": 51.34,
+    "lon": 0.74,
+    "pop": 62500
+  },
+  "Acton": {
+    "lat": 51.5135,
+    "lon": -0.2707,
+    "pop": 62480
+  },
+  "Twickenham": {
+    "lat": 51.449,
+    "lon": -0.337,
+    "pop": 62148
+  },
+  "Margate": {
+    "lat": 51.385,
+    "lon": 1.3838,
+    "pop": 61223
+  },
+  "Taunton": {
+    "lat": 51.019,
+    "lon": -3.1,
+    "pop": 60479
+  },
+  "Loughborough": {
+    "lat": 52.7725,
+    "lon": -1.2078,
+    "pop": 59932
+  },
+  "Barking": {
+    "lat": 51.54,
+    "lon": 0.08,
+    "pop": 59068
+  },
+  "Edgware": {
+    "lat": 51.6185,
+    "lon": -0.2729,
+    "pop": 58619
+  },
+  "Littlehampton": {
+    "lat": 50.8094,
+    "lon": -0.5409,
+    "pop": 58357
+  },
+  "Ruislip": {
+    "lat": 51.576,
+    "lon": -0.433,
+    "pop": 58217
+  },
+  "Halesowen": {
+    "lat": 52.4502,
+    "lon": -2.0509,
+    "pop": 58135
+  },
+  "Streatham": {
+    "lat": 51.4279,
+    "lon": -0.1235,
+    "pop": 58055
+  },
+  "Royal Tunbridge Wells": {
+    "lat": 51.132,
+    "lon": 0.263,
+    "pop": 57772
+  },
+  "Aldershot": {
+    "lat": 51.2483,
+    "lon": -0.7614,
+    "pop": 57211
+  },
+  "Macclesfield": {
+    "lat": 53.25,
+    "lon": -2.13,
+    "pop": 56581
+  },
+  "Wellingborough": {
+    "lat": 52.3028,
+    "lon": -0.6944,
+    "pop": 56564
+  },
+  "Kettering": {
+    "lat": 52.3931,
+    "lon": -0.7229,
+    "pop": 56226
+  },
+  "Braintree": {
+    "lat": 51.878,
+    "lon": 0.55,
+    "pop": 55792
+  },
+  "Royal Leamington Spa": {
+    "lat": 52.2919,
+    "lon": -1.5358,
+    "pop": 55733
+  },
+  "Kidderminster": {
+    "lat": 52.3885,
+    "lon": -2.249,
+    "pop": 55530
+  },
+  "Barrow in Furness": {
+    "lat": 54.1108,
+    "lon": -3.2261,
+    "pop": 55489
+  },
+  "Corby": {
+    "lat": 52.4877,
+    "lon": -0.7013,
+    "pop": 54927
+  },
+  "Canterbury": {
+    "lat": 51.28,
+    "lon": 1.08,
+    "pop": 54880
+  },
+  "Christchurch": {
+    "lat": 50.73,
+    "lon": -1.78,
+    "pop": 54210
+  },
+  "Keighley": {
+    "lat": 53.867,
+    "lon": -1.911,
+    "pop": 53331
+  },
+  "Brentwood": {
+    "lat": 51.62,
+    "lon": 0.305,
+    "pop": 52586
+  },
+  "Altrincham": {
+    "lat": 53.3838,
+    "lon": -2.3547,
+    "pop": 52419
+  },
+  "Lancaster": {
+    "lat": 54.0489,
+    "lon": -2.8014,
+    "pop": 52234
+  },
+  "Willenhall": {
+    "lat": 52.5798,
+    "lon": -2.0605,
+    "pop": 51429
+  },
+  "Stratford": {
+    "lat": 51.5423,
+    "lon": -0.0026,
+    "pop": 51387
+  },
+  "Folkestone": {
+    "lat": 51.0792,
+    "lon": 1.1794,
+    "pop": 51337
+  },
+  "Dartford": {
+    "lat": 51.4444,
+    "lon": 0.2172,
+    "pop": 51240
+  },
+  "Weymouth": {
+    "lat": 50.6097,
+    "lon": -2.4547,
+    "pop": 51012
+  },
+  "Horsham": {
+    "lat": 51.062,
+    "lon": -0.325,
+    "pop": 50934
+  },
+  "Esher": {
+    "lat": 51.3691,
+    "lon": -0.365,
+    "pop": 50904
+  },
+  "Andover": {
+    "lat": 51.208,
+    "lon": -1.48,
+    "pop": 50887
+  },
+  "Clacton-on-Sea": {
+    "lat": 51.7918,
+    "lon": 1.1457,
+    "pop": 50548
+  },
+  "Northwich": {
+    "lat": 53.259,
+    "lon": -2.518,
+    "pop": 50531
+  },
+  "Rowley Regis": {
+    "lat": 52.488,
+    "lon": -2.05,
+    "pop": 50257
+  },
+  "Scarborough": {
+    "lat": 54.2825,
+    "lon": -0.4,
+    "pop": 50135
+  },
+  "Yeovil": {
+    "lat": 50.9452,
+    "lon": -2.637,
+    "pop": 49698
+  },
+  "Eltham": {
+    "lat": 51.451,
+    "lon": 0.052,
+    "pop": 48964
+  },
+  "Hampstead": {
+    "lat": 51.5541,
+    "lon": -0.1744,
+    "pop": 48858
+  },
+  "Sutton in Ashfield": {
+    "lat": 53.125,
+    "lon": -1.261,
+    "pop": 48527
+  },
+  "Welwyn Garden City": {
+    "lat": 51.8062,
+    "lon": -0.1932,
+    "pop": 48380
+  },
+  "Morden": {
+    "lat": 51.4015,
+    "lon": -0.1949,
+    "pop": 48233
+  },
+  "Smethwick": {
+    "lat": 52.4931,
+    "lon": -1.9686,
+    "pop": 48180
+  },
+  "Barnet": {
+    "lat": 51.6444,
+    "lon": -0.1997,
+    "pop": 47359
+  },
+  "Stretford": {
+    "lat": 53.4466,
+    "lon": -2.3086,
+    "pop": 46910
+  },
+  "Banbury": {
+    "lat": 52.061,
+    "lon": -1.336,
+    "pop": 46853
+  },
+  "Beckenham": {
+    "lat": 51.408,
+    "lon": -0.022,
+    "pop": 46844
+  },
+  "Greenford": {
+    "lat": 51.5299,
+    "lon": -0.3488,
+    "pop": 46787
+  },
+  "Wokingham": {
+    "lat": 51.41,
+    "lon": -0.84,
+    "pop": 46745
+  },
+  "Cheshunt": {
+    "lat": 51.702,
+    "lon": -0.035,
+    "pop": 45832
+  },
+  "Havant": {
+    "lat": 50.8517,
+    "lon": -0.9842,
+    "pop": 45826
+  },
+  "Salisbury": {
+    "lat": 51.07,
+    "lon": -1.79,
+    "pop": 45477
+  },
+  "Erith": {
+    "lat": 51.48,
+    "lon": 0.1778,
+    "pop": 45345
+  },
+  "Hinckley": {
+    "lat": 52.5413,
+    "lon": -1.3725,
+    "pop": 45249
+  },
+  "Ashton": {
+    "lat": 53.4897,
+    "lon": -2.0952,
+    "pop": 45198
+  },
+  "Surbiton": {
+    "lat": 51.394,
+    "lon": -0.307,
+    "pop": 45132
+  },
+  "Castleford": {
+    "lat": 53.716,
+    "lon": -1.356,
+    "pop": 45106
+  },
+  "Catford": {
+    "lat": 51.4452,
+    "lon": -0.0207,
+    "pop": 44905
+  },
+  "Worksop": {
+    "lat": 53.3042,
+    "lon": -1.1244,
+    "pop": 44733
+  },
+  "Morley": {
+    "lat": 53.7492,
+    "lon": -1.6023,
+    "pop": 44440
+  },
+  "Sidcup": {
+    "lat": 51.4263,
+    "lon": 0.1024,
+    "pop": 43109
+  },
+  "Kingston upon Thames": {
+    "lat": 51.4103,
+    "lon": -0.2995,
+    "pop": 43013
+  },
+  "Middleton": {
+    "lat": 53.555,
+    "lon": -2.187,
+    "pop": 42972
+  },
+  "Fleet": {
+    "lat": 51.2834,
+    "lon": -0.8456,
+    "pop": 42835
+  },
+  "King\u2019s Lynn": {
+    "lat": 52.754,
+    "lon": 0.398,
+    "pop": 42800
+  },
+  "Hoddesdon": {
+    "lat": 51.759,
+    "lon": -0.015,
+    "pop": 42253
+  },
+  "Fareham": {
+    "lat": 50.85,
+    "lon": -1.18,
+    "pop": 42210
+  },
+  "Urmston": {
+    "lat": 53.4487,
+    "lon": -2.3747,
+    "pop": 41825
+  },
+  "Sutton": {
+    "lat": 51.3656,
+    "lon": -0.1963,
+    "pop": 41483
+  },
+  "Bridgwater": {
+    "lat": 51.128,
+    "lon": -2.993,
+    "pop": 41276
+  },
+  "Leigh": {
+    "lat": 53.4975,
+    "lon": -2.515,
+    "pop": 41275
+  },
+  "Hatfield": {
+    "lat": 53.58,
+    "lon": -1.0,
+    "pop": 17236
+  },
+  "Newbury": {
+    "lat": 51.401,
+    "lon": -1.323,
+    "pop": 41075
+  },
+  "Welling": {
+    "lat": 51.4594,
+    "lon": 0.1097,
+    "pop": 41000
+  },
+  "Kingswood": {
+    "lat": 51.46,
+    "lon": -2.505,
+    "pop": 40734
+  },
+  "Dunstable": {
+    "lat": 51.886,
+    "lon": -0.521,
+    "pop": 40699
+  },
+  "Bury Saint Edmunds": {
+    "lat": 52.2474,
+    "lon": 0.7183,
+    "pop": 40664
+  },
+  "Ramsgate": {
+    "lat": 51.336,
+    "lon": 1.416,
+    "pop": 40408
+  },
+  "Strood": {
+    "lat": 51.393,
+    "lon": 0.478,
+    "pop": 40000
+  },
+  "Cleethorpes": {
+    "lat": 53.5533,
+    "lon": -0.0215,
+    "pop": 38996
+  },
+  "Tipton": {
+    "lat": 52.5259,
+    "lon": -2.0751,
+    "pop": 38777
+  },
+  "Eccles": {
+    "lat": 53.4824,
+    "lon": -2.339,
+    "pop": 38756
+  },
+  "Pinner": {
+    "lat": 51.5932,
+    "lon": -0.3894,
+    "pop": 38698
+  },
+  "Great Yarmouth": {
+    "lat": 52.606,
+    "lon": 1.729,
+    "pop": 38693
+  },
+  "Tonbridge": {
+    "lat": 51.1987,
+    "lon": 0.2764,
+    "pop": 38657
+  },
+  "Ilkeston": {
+    "lat": 52.9711,
+    "lon": -1.3092,
+    "pop": 38640
+  },
+  "Leyland": {
+    "lat": 53.6903,
+    "lon": -2.6992,
+    "pop": 38578
+  },
+  "Chorley": {
+    "lat": 53.653,
+    "lon": -2.632,
+    "pop": 38420
+  },
+  "Herne Bay": {
+    "lat": 51.37,
+    "lon": 1.13,
+    "pop": 38385
+  },
+  "Bishops Stortford": {
+    "lat": 51.872,
+    "lon": 0.1725,
+    "pop": 38202
+  },
+  "Arnold": {
+    "lat": 53.005,
+    "lon": -1.127,
+    "pop": 37768
+  },
+  "Long Eaton": {
+    "lat": 52.898,
+    "lon": -1.271,
+    "pop": 37760
+  },
+  "Coalville": {
+    "lat": 52.724,
+    "lon": -1.369,
+    "pop": 37661
+  },
+  "Bletchley": {
+    "lat": 51.994,
+    "lon": -0.732,
+    "pop": 37520
+  },
+  "Leighton Buzzard": {
+    "lat": 51.9165,
+    "lon": -0.6617,
+    "pop": 37469
+  },
+  "Laindon": {
+    "lat": 51.574,
+    "lon": 0.4181,
+    "pop": 37175
+  },
+  "Beeston": {
+    "lat": 52.927,
+    "lon": -1.215,
+    "pop": 37000
+  },
+  "Small Heath": {
+    "lat": 52.4629,
+    "lon": -1.8542,
+    "pop": 36898
+  },
+  "Camberley": {
+    "lat": 51.335,
+    "lon": -0.742,
+    "pop": 36783
+  },
+  "Denton": {
+    "lat": 53.4554,
+    "lon": -2.1122,
+    "pop": 36591
+  },
+  "Chippenham": {
+    "lat": 51.459,
+    "lon": -2.116,
+    "pop": 36548
+  },
+  "West Bridgford": {
+    "lat": 52.932,
+    "lon": -1.127,
+    "pop": 36487
+  },
+  "Borehamwood": {
+    "lat": 51.6578,
+    "lon": -0.2722,
+    "pop": 36322
+  },
+  "Hyde": {
+    "lat": 53.4474,
+    "lon": -2.082,
+    "pop": 35890
+  },
+  "Hendon": {
+    "lat": 51.5837,
+    "lon": -0.2252,
+    "pop": 35874
+  },
+  "Walkden": {
+    "lat": 53.5239,
+    "lon": -2.3991,
+    "pop": 35616
+  },
+  "Kenton": {
+    "lat": 51.5878,
+    "lon": -0.3086,
+    "pop": 35600
+  },
+  "Woodley": {
+    "lat": 51.453,
+    "lon": -0.902,
+    "pop": 35470
+  },
+  "Accrington": {
+    "lat": 53.7534,
+    "lon": -2.3638,
+    "pop": 35456
+  },
+  "Bridlington": {
+    "lat": 54.0819,
+    "lon": -0.1923,
+    "pop": 35264
+  },
+  "Winchester": {
+    "lat": 51.0632,
+    "lon": -1.308,
+    "pop": 35200
+  },
+  "Winsford": {
+    "lat": 53.194,
+    "lon": -2.52,
+    "pop": 35000
+  },
+  "Ewell": {
+    "lat": 51.35,
+    "lon": -0.249,
+    "pop": 34872
+  },
+  "Morecambe": {
+    "lat": 54.073,
+    "lon": -2.87,
+    "pop": 34768
+  },
+  "Grantham": {
+    "lat": 52.918,
+    "lon": -0.638,
+    "pop": 34592
+  },
+  "Swadlincote": {
+    "lat": 52.774,
+    "lon": -1.557,
+    "pop": 34576
+  },
+  "Exmouth": {
+    "lat": 50.62,
+    "lon": -3.413,
+    "pop": 34432
+  },
+  "Hitchin": {
+    "lat": 51.947,
+    "lon": -0.283,
+    "pop": 34266
+  },
+  "Spalding": {
+    "lat": 52.7858,
+    "lon": -0.1529,
+    "pop": 34113
+  },
+  "Rainham": {
+    "lat": 51.36,
+    "lon": 0.61,
+    "pop": 34088
+  },
+  "Letchworth": {
+    "lat": 51.978,
+    "lon": -0.23,
+    "pop": 33986
+  },
+  "Lichfield": {
+    "lat": 52.682,
+    "lon": -1.829,
+    "pop": 33816
+  },
+  "Wickford": {
+    "lat": 51.6114,
+    "lon": 0.5207,
+    "pop": 33486
+  },
+  "Loughton": {
+    "lat": 51.6494,
+    "lon": 0.0735,
+    "pop": 33353
+  },
+  "Glossop": {
+    "lat": 53.443,
+    "lon": -1.949,
+    "pop": 33340
+  },
+  "Abingdon": {
+    "lat": 51.6717,
+    "lon": -1.2783,
+    "pop": 33130
+  },
+  "Trowbridge": {
+    "lat": 51.32,
+    "lon": -2.208,
+    "pop": 33108
+  },
+  "Warwick": {
+    "lat": 52.28,
+    "lon": -1.59,
+    "pop": 32719
+  },
+  "Brighouse": {
+    "lat": 53.707,
+    "lon": -1.794,
+    "pop": 32360
+  },
+  "Wigston Magna": {
+    "lat": 52.5812,
+    "lon": -1.093,
+    "pop": 32321
+  },
+  "Windsor": {
+    "lat": 51.4791,
+    "lon": -0.6095,
+    "pop": 32184
+  },
+  "Didcot": {
+    "lat": 51.606,
+    "lon": -1.241,
+    "pop": 32183
+  },
+  "Earley": {
+    "lat": 51.433,
+    "lon": -0.933,
+    "pop": 32036
+  },
+  "Bexleyheath": {
+    "lat": 51.459,
+    "lon": 0.138,
+    "pop": 31929
+  },
+  "Rushden": {
+    "lat": 52.288,
+    "lon": -0.601,
+    "pop": 31690
+  },
+  "Ecclesfield": {
+    "lat": 53.4429,
+    "lon": -1.4698,
+    "pop": 31609
+  },
+  "Wisbech": {
+    "lat": 52.664,
+    "lon": 0.16,
+    "pop": 31573
+  },
+  "Darwen": {
+    "lat": 53.698,
+    "lon": -2.461,
+    "pop": 31570
+  },
+  "Prestwich": {
+    "lat": 53.5333,
+    "lon": -2.2833,
+    "pop": 31500
+  },
+  "Epsom": {
+    "lat": 51.3331,
+    "lon": -0.2686,
+    "pop": 31489
+  },
+  "Saint Neots": {
+    "lat": 52.228,
+    "lon": -0.27,
+    "pop": 31165
+  },
+  "Bedworth": {
+    "lat": 52.475,
+    "lon": -1.477,
+    "pop": 31090
+  },
+  "Dover": {
+    "lat": 51.1295,
+    "lon": 1.3089,
+    "pop": 31022
+  },
+  "Chichester": {
+    "lat": 50.8365,
+    "lon": -0.7792,
+    "pop": 30925
+  },
+  "Deal": {
+    "lat": 51.2226,
+    "lon": 1.4006,
+    "pop": 30917
+  },
+  "Pontefract": {
+    "lat": 53.691,
+    "lon": -1.312,
+    "pop": 30881
+  },
+  "Bicester": {
+    "lat": 51.9,
+    "lon": -1.15,
+    "pop": 30854
+  },
+  "Beverley": {
+    "lat": 53.845,
+    "lon": -0.427,
+    "pop": 30831
+  },
+  "Burgess Hill": {
+    "lat": 50.9535,
+    "lon": -0.1262,
+    "pop": 30635
+  },
+  "Stratford-upon-Avon": {
+    "lat": 52.1928,
+    "lon": -1.7064,
+    "pop": 30495
+  },
+  "Newark upon Trent": {
+    "lat": 53.0772,
+    "lon": -0.8089,
+    "pop": 30345
+  },
+  "Northolt": {
+    "lat": 51.5467,
+    "lon": -0.37,
+    "pop": 30304
+  },
+  "Harpenden": {
+    "lat": 51.8175,
+    "lon": -0.3524,
+    "pop": 30240
+  },
+  "Whitstable": {
+    "lat": 51.361,
+    "lon": 1.026,
+    "pop": 30195
+  },
+  "Congleton": {
+    "lat": 53.162,
+    "lon": -2.217,
+    "pop": 30015
+  },
+  "Radcliffe": {
+    "lat": 53.5615,
+    "lon": -2.3268,
+    "pop": 29950
+  },
+  "Carshalton": {
+    "lat": 51.3652,
+    "lon": -0.1676,
+    "pop": 29917
+  },
+  "Plympton": {
+    "lat": 50.386,
+    "lon": -4.051,
+    "pop": 29899
+  },
+  "Bulwell": {
+    "lat": 53.001,
+    "lon": -1.197,
+    "pop": 29771
+  },
+  "Kendal": {
+    "lat": 54.326,
+    "lon": -2.745,
+    "pop": 29593
+  },
+  "Sevenoaks": {
+    "lat": 51.2781,
+    "lon": 0.1874,
+    "pop": 29506
+  },
+  "Northfleet": {
+    "lat": 51.44,
+    "lon": 0.34,
+    "pop": 29474
+  },
+  "Bromsgrove": {
+    "lat": 52.3353,
+    "lon": -2.0579,
+    "pop": 29237
+  },
+  "Nelson": {
+    "lat": 53.8346,
+    "lon": -2.218,
+    "pop": 29135
+  },
+  "Hanwell": {
+    "lat": 51.509,
+    "lon": -0.338,
+    "pop": 28768
+  },
+  "Stanford le Hope": {
+    "lat": 51.514,
+    "lon": 0.4244,
+    "pop": 28765
+  },
+  "Frome": {
+    "lat": 51.2279,
+    "lon": -2.3215,
+    "pop": 28559
+  },
+  "Wood Green": {
+    "lat": 51.5981,
+    "lon": -0.1149,
+    "pop": 28453
+  },
+  "Bushey": {
+    "lat": 51.6429,
+    "lon": -0.3604,
+    "pop": 28416
+  },
+  "Heywood": {
+    "lat": 53.59,
+    "lon": -2.219,
+    "pop": 28205
+  },
+  "Reddish": {
+    "lat": 53.4383,
+    "lon": -2.1613,
+    "pop": 28052
+  },
+  "Billericay": {
+    "lat": 51.628,
+    "lon": 0.4184,
+    "pop": 27998
+  },
+  "Darlaston": {
+    "lat": 52.5708,
+    "lon": -2.0457,
+    "pop": 27821
+  },
+  "Witney": {
+    "lat": 51.78,
+    "lon": -1.49,
+    "pop": 27522
+  },
+  "Longton": {
+    "lat": 52.9877,
+    "lon": -2.1327,
+    "pop": 27214
+  },
+  "Melton Mowbray": {
+    "lat": 52.7661,
+    "lon": -0.886,
+    "pop": 27158
+  },
+  "Haverhill": {
+    "lat": 52.08,
+    "lon": 0.44,
+    "pop": 27041
+  },
+  "Thetford": {
+    "lat": 52.41,
+    "lon": 0.74,
+    "pop": 27027
+  },
+  "Aldridge": {
+    "lat": 52.606,
+    "lon": -1.9179,
+    "pop": 26988
+  },
+  "Seaford": {
+    "lat": 50.77,
+    "lon": 0.1,
+    "pop": 26955
+  },
+  "Farnworth": {
+    "lat": 53.5452,
+    "lon": -2.3999,
+    "pop": 26939
+  },
+  "Highbury": {
+    "lat": 51.552,
+    "lon": -0.097,
+    "pop": 26664
+  },
+  "Cheadle Hulme": {
+    "lat": 53.3761,
+    "lon": -2.1897,
+    "pop": 26479
+  },
+  "East Grinstead": {
+    "lat": 51.1286,
+    "lon": -0.0144,
+    "pop": 26383
+  },
+  "Ashton in Makerfield": {
+    "lat": 53.487,
+    "lon": -2.641,
+    "pop": 26380
+  },
+  "Wilmslow": {
+    "lat": 53.325,
+    "lon": -2.239,
+    "pop": 26213
+  },
+  "Burntwood": {
+    "lat": 52.6831,
+    "lon": -1.92,
+    "pop": 26049
+  },
+  "Fleetwood": {
+    "lat": 53.922,
+    "lon": -3.012,
+    "pop": 25939
+  },
+  "Bournville": {
+    "lat": 52.4299,
+    "lon": -1.9355,
+    "pop": 25938
+  },
+  "Shenley Brook End": {
+    "lat": 52.009,
+    "lon": -0.789,
+    "pop": 25828
+  },
+  "New Milton": {
+    "lat": 50.76,
+    "lon": -1.65,
+    "pop": 25717
+  },
+  "Coulsdon": {
+    "lat": 51.3211,
+    "lon": -0.1386,
+    "pop": 25695
+  },
+  "Farnham": {
+    "lat": 51.215,
+    "lon": -0.799,
+    "pop": 25604
+  },
+  "Bilston": {
+    "lat": 52.566,
+    "lon": -2.0728,
+    "pop": 25576
+  },
+  "Wellington": {
+    "lat": 50.9755,
+    "lon": -3.2243,
+    "pop": 16669
+  },
+  "Witham": {
+    "lat": 51.7978,
+    "lon": 0.6373,
+    "pop": 25542
+  },
+  "Oldbury": {
+    "lat": 52.505,
+    "lon": -2.0159,
+    "pop": 25488
+  },
+  "Thatcham": {
+    "lat": 51.405,
+    "lon": -1.264,
+    "pop": 25464
+  },
+  "Longbridge": {
+    "lat": 52.395,
+    "lon": -1.979,
+    "pop": 25410
+  },
+  "Bloxwich": {
+    "lat": 52.614,
+    "lon": -2.004,
+    "pop": 25401
+  },
+  "Upminster": {
+    "lat": 51.5557,
+    "lon": 0.2512,
+    "pop": 25361
+  },
+  "Kirkby in Ashfield": {
+    "lat": 53.099,
+    "lon": -1.245,
+    "pop": 25265
+  },
+  "Kingswinford": {
+    "lat": 52.4981,
+    "lon": -2.1657,
+    "pop": 25191
+  },
+  "Droitwich": {
+    "lat": 52.267,
+    "lon": -2.153,
+    "pop": 25027
+  },
+  "Daventry": {
+    "lat": 52.2578,
+    "lon": -1.1628,
+    "pop": 25026
+  },
+  "Hindley": {
+    "lat": 53.5355,
+    "lon": -2.5658,
+    "pop": 25001
+  },
+  "Pitsea": {
+    "lat": 51.569,
+    "lon": 0.504,
+    "pop": 25000
+  },
+  "Westhoughton": {
+    "lat": 53.549,
+    "lon": -2.529,
+    "pop": 24974
+  },
+  "Broadstairs": {
+    "lat": 51.3589,
+    "lon": 1.4394,
+    "pop": 24903
+  },
+  "Thundersley": {
+    "lat": 51.57,
+    "lon": 0.59,
+    "pop": 24800
+  },
+  "Gorleston-on-Sea": {
+    "lat": 52.5757,
+    "lon": 1.7235,
+    "pop": 24785
+  },
+  "Penistone": {
+    "lat": 53.525,
+    "lon": -1.629,
+    "pop": 24760
+  },
+  "Hertford": {
+    "lat": 51.7966,
+    "lon": -0.0774,
+    "pop": 24720
+  },
+  "Newton in Makerfield": {
+    "lat": 53.45,
+    "lon": -2.633,
+    "pop": 24642
+  },
+  "Felixstowe": {
+    "lat": 51.9639,
+    "lon": 1.3515,
+    "pop": 24441
+  },
+  "Rugeley": {
+    "lat": 52.7599,
+    "lon": -1.9388,
+    "pop": 24386
+  },
+  "Kings Norton": {
+    "lat": 52.4072,
+    "lon": -1.9272,
+    "pop": 24380
+  },
+  "Alfreton": {
+    "lat": 53.097,
+    "lon": -1.38,
+    "pop": 24302
+  },
+  "Farnley": {
+    "lat": 53.7876,
+    "lon": -1.6159,
+    "pop": 24213
+  },
+  "Great Sankey": {
+    "lat": 53.3918,
+    "lon": -2.6383,
+    "pop": 24211
+  },
+  "Golborne": {
+    "lat": 53.4758,
+    "lon": -2.5943,
+    "pop": 24169
+  },
+  "Plymstock": {
+    "lat": 50.3569,
+    "lon": -4.09,
+    "pop": 24103
+  },
+  "Ryde": {
+    "lat": 50.7271,
+    "lon": -1.1618,
+    "pop": 24096
+  },
+  "Barnstaple": {
+    "lat": 51.08,
+    "lon": -4.06,
+    "pop": 23976
+  },
+  "Rickmansworth": {
+    "lat": 51.6383,
+    "lon": -0.4659,
+    "pop": 23973
+  },
+  "Littleover": {
+    "lat": 52.906,
+    "lon": -1.505,
+    "pop": 23958
+  },
+  "Newport": {
+    "lat": 52.7691,
+    "lon": -2.3787,
+    "pop": 11387
+  },
+  "Caversham": {
+    "lat": 51.467,
+    "lon": -0.973,
+    "pop": 23885
+  },
+  "Oadby": {
+    "lat": 52.5987,
+    "lon": -1.0763,
+    "pop": 23849
+  },
+  "Kidsgrove": {
+    "lat": 53.0874,
+    "lon": -2.2478,
+    "pop": 23756
+  },
+  "East Retford": {
+    "lat": 53.3228,
+    "lon": -0.9431,
+    "pop": 23740
+  },
+  "Huntingdon": {
+    "lat": 52.3364,
+    "lon": -0.1717,
+    "pop": 23732
+  },
+  "Stalybridge": {
+    "lat": 53.4834,
+    "lon": -2.04,
+    "pop": 23731
+  },
+  "Stanmore": {
+    "lat": 51.618,
+    "lon": -0.314,
+    "pop": 23700
+  },
+  "Droylsden": {
+    "lat": 53.4828,
+    "lon": -2.1582,
+    "pop": 23689
+  },
+  "Marple": {
+    "lat": 53.397,
+    "lon": -2.061,
+    "pop": 23687
+  },
+  "Perry Barr": {
+    "lat": 52.5249,
+    "lon": -1.9042,
+    "pop": 23652
+  },
+  "Newton Abbot": {
+    "lat": 50.529,
+    "lon": -3.61,
+    "pop": 23580
+  },
+  "Whitefield": {
+    "lat": 53.5521,
+    "lon": -2.2992,
+    "pop": 23283
+  },
+  "Penwortham": {
+    "lat": 53.74,
+    "lon": -2.72,
+    "pop": 23047
+  },
+  "Harborne": {
+    "lat": 52.46,
+    "lon": -1.95,
+    "pop": 23001
+  },
+  "Rawtenstall": {
+    "lat": 53.699,
+    "lon": -2.291,
+    "pop": 23000
+  },
+  "Clifton": {
+    "lat": 53.9721,
+    "lon": -1.0979,
+    "pop": 13548
+  },
+  "Swinton": {
+    "lat": 53.4877,
+    "lon": -1.3149,
+    "pop": 15559
+  },
+  "Market Harborough": {
+    "lat": 52.4775,
+    "lon": -0.9206,
+    "pop": 22911
+  },
+  "Waltham Abbey": {
+    "lat": 51.6846,
+    "lon": 0.0004,
+    "pop": 22859
+  },
+  "Gainsborough": {
+    "lat": 53.4016,
+    "lon": -0.7732,
+    "pop": 22841
+  },
+  "Erdington": {
+    "lat": 52.5236,
+    "lon": -1.8378,
+    "pop": 22828
+  },
+  "Haywards Heath": {
+    "lat": 51.0048,
+    "lon": -0.0979,
+    "pop": 22800
+  },
+  "Wednesfield": {
+    "lat": 52.5998,
+    "lon": -2.0827,
+    "pop": 22646
+  },
+  "Farsley": {
+    "lat": 53.8116,
+    "lon": -1.6718,
+    "pop": 22594
+  },
+  "Kenilworth": {
+    "lat": 52.341,
+    "lon": -1.566,
+    "pop": 22538
+  },
+  "Potters Bar": {
+    "lat": 51.698,
+    "lon": -0.183,
+    "pop": 22536
+  },
+  "Foleshill": {
+    "lat": 52.4255,
+    "lon": -1.502,
+    "pop": 22478
+  },
+  "Pudsey": {
+    "lat": 53.797,
+    "lon": -1.663,
+    "pop": 22408
+  },
+  "Evesham": {
+    "lat": 52.092,
+    "lon": -1.947,
+    "pop": 22304
+  },
+  "March": {
+    "lat": 52.551,
+    "lon": 0.088,
+    "pop": 22298
+  },
+  "Tiverton": {
+    "lat": 50.903,
+    "lon": -3.488,
+    "pop": 22291
+  },
+  "Shoeburyness": {
+    "lat": 51.5316,
+    "lon": 0.7978,
+    "pop": 22275
+  },
+  "Yeadon": {
+    "lat": 53.869,
+    "lon": -1.688,
+    "pop": 22233
+  },
+  "Acomb": {
+    "lat": 53.955,
+    "lon": -1.126,
+    "pop": 22215
+  },
+  "Reigate": {
+    "lat": 51.237,
+    "lon": -0.206,
+    "pop": 22123
+  },
+  "Horley": {
+    "lat": 51.174,
+    "lon": -0.172,
+    "pop": 22076
+  },
+  "Newquay": {
+    "lat": 50.412,
+    "lon": -5.0757,
+    "pop": 22074
+  },
+  "Camborne": {
+    "lat": 50.213,
+    "lon": -5.3,
+    "pop": 22074
+  },
+  "Northwood": {
+    "lat": 51.601,
+    "lon": -0.4176,
+    "pop": 22047
+  },
+  "Atherton": {
+    "lat": 53.523,
+    "lon": -2.495,
+    "pop": 22000
+  },
+  "Sandbach": {
+    "lat": 53.146,
+    "lon": -2.367,
+    "pop": 21916
+  },
+  "Belper": {
+    "lat": 53.029,
+    "lon": -1.475,
+    "pop": 21822
+  },
+  "Sheldon": {
+    "lat": 52.45,
+    "lon": -1.7666,
+    "pop": 21817
+  },
+  "Falmouth": {
+    "lat": 50.15,
+    "lon": -5.07,
+    "pop": 21797
+  },
+  "Yate": {
+    "lat": 51.5402,
+    "lon": -2.411,
+    "pop": 21789
+  },
+  "Biggleswade": {
+    "lat": 52.0855,
+    "lon": -0.2557,
+    "pop": 21700
+  },
+  "Truro": {
+    "lat": 50.26,
+    "lon": -5.051,
+    "pop": 21555
+  },
+  "Stowmarket": {
+    "lat": 52.19,
+    "lon": 1.0,
+    "pop": 21534
+  },
+  "Chesham": {
+    "lat": 51.712,
+    "lon": -0.612,
+    "pop": 21483
+  },
+  "Richmond": {
+    "lat": 51.456,
+    "lon": -0.301,
+    "pop": 21469
+  },
+  "Chandlers Ford": {
+    "lat": 50.984,
+    "lon": -1.3792,
+    "pop": 21436
+  },
+  "Darton": {
+    "lat": 53.585,
+    "lon": -1.5325,
+    "pop": 21345
+  },
+  "Royton": {
+    "lat": 53.566,
+    "lon": -2.121,
+    "pop": 21284
+  },
+  "Dronfield": {
+    "lat": 53.3024,
+    "lon": -1.4664,
+    "pop": 21261
+  },
+  "Ossett": {
+    "lat": 53.68,
+    "lon": -1.58,
+    "pop": 21231
+  },
+  "Penzance": {
+    "lat": 50.119,
+    "lon": -5.537,
+    "pop": 21168
+  },
+  "Skegness": {
+    "lat": 53.1436,
+    "lon": 0.3428,
+    "pop": 21128
+  },
+  "Saint Austell": {
+    "lat": 50.34,
+    "lon": -4.79,
+    "pop": 21054
+  },
+  "Caterham": {
+    "lat": 51.2803,
+    "lon": -0.0816,
+    "pop": 21030
+  },
+  "Woodlesford": {
+    "lat": 53.7567,
+    "lon": -1.453,
+    "pop": 21010
+  },
+  "Stratton Saint Margaret": {
+    "lat": 51.586,
+    "lon": -1.762,
+    "pop": 21005
+  },
+  "Normanton": {
+    "lat": 53.697,
+    "lon": -1.416,
+    "pop": 20872
+  },
+  "Wallington": {
+    "lat": 51.3647,
+    "lon": -0.1403,
+    "pop": 20850
+  },
+  "Leek": {
+    "lat": 53.108,
+    "lon": -2.0234,
+    "pop": 20768
+  },
+  "Leigh-on-Sea": {
+    "lat": 51.5425,
+    "lon": 0.6535,
+    "pop": 20737
+  },
+  "Boscombe": {
+    "lat": 50.725,
+    "lon": -1.84,
+    "pop": 20719
+  },
+  "Failsworth": {
+    "lat": 53.5102,
+    "lon": -2.1575,
+    "pop": 20680
+  },
+  "Kirkstall": {
+    "lat": 53.816,
+    "lon": -1.602,
+    "pop": 20673
+  },
+  "Crowborough": {
+    "lat": 51.06,
+    "lon": 0.16,
+    "pop": 20607
+  },
+  "Shoreham-by-Sea": {
+    "lat": 50.834,
+    "lon": -0.273,
+    "pop": 20547
+  },
+  "Hythe": {
+    "lat": 51.0716,
+    "lon": 1.084,
+    "pop": 14170
+  },
+  "Hailsham": {
+    "lat": 50.8647,
+    "lon": 0.2577,
+    "pop": 20476
+  },
+  "Newmarket": {
+    "lat": 52.2459,
+    "lon": 0.4105,
+    "pop": 20384
+  },
+  "Sandhurst": {
+    "lat": 51.349,
+    "lon": -0.8,
+    "pop": 20383
+  },
+  "Tewkesbury": {
+    "lat": 51.99,
+    "lon": -2.16,
+    "pop": 20360
+  },
+  "Rothwell": {
+    "lat": 53.7485,
+    "lon": -1.478,
+    "pop": 20354
+  },
+  "Ely": {
+    "lat": 52.3981,
+    "lon": 0.2622,
+    "pop": 20256
+  },
+  "Ripley": {
+    "lat": 53.05,
+    "lon": -1.407,
+    "pop": 20176
+  },
+  "Dorchester": {
+    "lat": 50.7154,
+    "lon": -2.4367,
+    "pop": 20135
+  },
+  "Horwich": {
+    "lat": 53.592,
+    "lon": -2.54,
+    "pop": 20067
+  },
+  "Buxton": {
+    "lat": 53.259,
+    "lon": -1.911,
+    "pop": 20048
+  },
+  "Bispham": {
+    "lat": 53.852,
+    "lon": -3.041,
+    "pop": 20001
+  },
+  "Hampton": {
+    "lat": 51.422,
+    "lon": -0.367,
+    "pop": 20000
+  },
+  "Minster": {
+    "lat": 51.421,
+    "lon": 0.809,
+    "pop": 20000
+  },
+  "Irlam": {
+    "lat": 53.445,
+    "lon": -2.422,
+    "pop": 19933
+  },
+  "Biddulph": {
+    "lat": 53.12,
+    "lon": -2.17,
+    "pop": 19892
+  },
+  "Garforth": {
+    "lat": 53.792,
+    "lon": -1.388,
+    "pop": 19811
+  },
+  "Sleaford": {
+    "lat": 52.996,
+    "lon": -0.413,
+    "pop": 19807
+  },
+  "Stoke Gifford": {
+    "lat": 51.517,
+    "lon": -2.548,
+    "pop": 19794
+  },
+  "Selby": {
+    "lat": 53.7836,
+    "lon": -1.0678,
+    "pop": 19760
+  },
+  "Stamford": {
+    "lat": 52.656,
+    "lon": -0.484,
+    "pop": 19701
+  },
+  "Davyhulme": {
+    "lat": 53.4559,
+    "lon": -2.3683,
+    "pop": 19634
+  },
+  "Abbots Langley": {
+    "lat": 51.701,
+    "lon": -0.416,
+    "pop": 19574
+  },
+  "Mirfield": {
+    "lat": 53.6807,
+    "lon": -1.6888,
+    "pop": 19563
+  },
+  "Goole": {
+    "lat": 53.6992,
+    "lon": -0.8692,
+    "pop": 19518
+  },
+  "Kempston": {
+    "lat": 52.114,
+    "lon": -0.497,
+    "pop": 19440
+  },
+  "Adel": {
+    "lat": 53.8489,
+    "lon": -1.5849,
+    "pop": 19430
+  },
+  "Liversedge": {
+    "lat": 53.7067,
+    "lon": -1.69,
+    "pop": 19420
+  },
+  "Great Linford": {
+    "lat": 52.068,
+    "lon": -0.7637,
+    "pop": 19350
+  },
+  "Faversham": {
+    "lat": 51.3177,
+    "lon": 0.8928,
+    "pop": 19316
+  },
+  "Dukinfield": {
+    "lat": 53.4739,
+    "lon": -2.0828,
+    "pop": 19306
+  },
+  "Ecclesall": {
+    "lat": 53.362,
+    "lon": -1.498,
+    "pop": 19211
+  },
+  "Frimley": {
+    "lat": 51.3143,
+    "lon": -0.7387,
+    "pop": 19094
+  },
+  "Molesey": {
+    "lat": 51.401,
+    "lon": -0.363,
+    "pop": 19088
+  },
+  "Cirencester": {
+    "lat": 51.719,
+    "lon": -1.968,
+    "pop": 19076
+  },
+  "Calne": {
+    "lat": 51.438,
+    "lon": -2.005,
+    "pop": 19074
+  },
+  "Southbourne": {
+    "lat": 50.722,
+    "lon": -1.798,
+    "pop": 18960
+  },
+  "Horsforth": {
+    "lat": 53.837,
+    "lon": -1.643,
+    "pop": 18895
+  },
+  "Lancing": {
+    "lat": 50.832,
+    "lon": -0.319,
+    "pop": 18810
+  },
+  "Ware": {
+    "lat": 51.8108,
+    "lon": -0.0314,
+    "pop": 18799
+  },
+  "Eastwood": {
+    "lat": 53.018,
+    "lon": -1.304,
+    "pop": 18612
+  },
+  "East Dereham": {
+    "lat": 52.681,
+    "lon": 0.94,
+    "pop": 18609
+  },
+  "Stannington": {
+    "lat": 53.396,
+    "lon": -1.536,
+    "pop": 18607
+  },
+  "Rawmarsh": {
+    "lat": 53.4636,
+    "lon": -1.3439,
+    "pop": 18498
+  },
+  "Staines-upon-Thames": {
+    "lat": 51.434,
+    "lon": -0.511,
+    "pop": 18484
+  },
+  "Mill Hill": {
+    "lat": 51.62,
+    "lon": -0.23,
+    "pop": 18451
+  },
+  "Almondbury": {
+    "lat": 53.6344,
+    "lon": -1.7489,
+    "pop": 18346
+  },
+  "Hadleigh": {
+    "lat": 51.5535,
+    "lon": 0.6095,
+    "pop": 18300
+  },
+  "Bingley": {
+    "lat": 53.846,
+    "lon": -1.836,
+    "pop": 18294
+  },
+  "Bideford": {
+    "lat": 51.016,
+    "lon": -4.209,
+    "pop": 18260
+  },
+  "Staveley": {
+    "lat": 53.2694,
+    "lon": -1.3484,
+    "pop": 18247
+  },
+  "Shaw": {
+    "lat": 53.5783,
+    "lon": -2.0951,
+    "pop": 18245
+  },
+  "Fulwood": {
+    "lat": 53.365,
+    "lon": -1.544,
+    "pop": 18233
+  },
+  "Warminster": {
+    "lat": 51.205,
+    "lon": -2.181,
+    "pop": 18173
+  },
+  "Redhill": {
+    "lat": 51.2393,
+    "lon": -0.1726,
+    "pop": 18163
+  },
+  "Heckmondwike": {
+    "lat": 53.708,
+    "lon": -1.67,
+    "pop": 18149
+  },
+  "Poulton le Fylde": {
+    "lat": 53.847,
+    "lon": -2.995,
+    "pop": 18115
+  },
+  "Berkhampstead": {
+    "lat": 51.76,
+    "lon": -0.56,
+    "pop": 18100
+  },
+  "Wandsworth": {
+    "lat": 51.455,
+    "lon": -0.192,
+    "pop": 18072
+  },
+  "Sunbury": {
+    "lat": 51.423,
+    "lon": -0.424,
+    "pop": 18041
+  },
+  "Mickleover": {
+    "lat": 52.901,
+    "lon": -1.552,
+    "pop": 18000
+  },
+  "Bourne": {
+    "lat": 52.7684,
+    "lon": -0.3775,
+    "pop": 17981
+  },
+  "Madeley": {
+    "lat": 52.637,
+    "lon": -2.448,
+    "pop": 17935
+  },
+  "Ramsbottom": {
+    "lat": 53.6483,
+    "lon": -2.3167,
+    "pop": 17872
+  },
+  "Colne": {
+    "lat": 53.8554,
+    "lon": -2.1756,
+    "pop": 17855
+  },
+  "Alton": {
+    "lat": 51.1498,
+    "lon": -0.9769,
+    "pop": 17816
+  },
+  "Portchester": {
+    "lat": 50.842,
+    "lon": -1.12,
+    "pop": 17789
+  },
+  "Harwich": {
+    "lat": 51.934,
+    "lon": 1.266,
+    "pop": 17684
+  },
+  "South Ockendon": {
+    "lat": 51.5207,
+    "lon": 0.2956,
+    "pop": 17670
+  },
+  "Whittlesey": {
+    "lat": 52.558,
+    "lon": -0.13,
+    "pop": 17667
+  },
+  "Fern Down": {
+    "lat": 50.81,
+    "lon": -1.9,
+    "pop": 17650
+  },
+  "Quedgeley": {
+    "lat": 51.825,
+    "lon": -2.28,
+    "pop": 17519
+  },
+  "Woodhouse": {
+    "lat": 53.358,
+    "lon": -1.373,
+    "pop": 17450
+  },
+  "Royston": {
+    "lat": 53.61,
+    "lon": -1.45,
+    "pop": 10728
+  },
+  "Bramhall": {
+    "lat": 53.357,
+    "lon": -2.164,
+    "pop": 17436
+  },
+  "Louth": {
+    "lat": 53.3669,
+    "lon": -0.0061,
+    "pop": 17382
+  },
+  "Hednesford": {
+    "lat": 52.7115,
+    "lon": -2.0006,
+    "pop": 17343
+  },
+  "Thorne": {
+    "lat": 53.6083,
+    "lon": -0.9583,
+    "pop": 17295
+  },
+  "Houghton Regis": {
+    "lat": 51.9039,
+    "lon": -0.5247,
+    "pop": 17280
+  },
+  "Thornton": {
+    "lat": 53.7898,
+    "lon": -1.8504,
+    "pop": 17276
+  },
+  "Heanor": {
+    "lat": 53.014,
+    "lon": -1.354,
+    "pop": 17251
+  },
+  "Friern Barnet": {
+    "lat": 51.6126,
+    "lon": -0.1584,
+    "pop": 17250
+  },
+  "Milton": {
+    "lat": 53.05,
+    "lon": -2.142,
+    "pop": 17250
+  },
+  "Glen Parva": {
+    "lat": 52.5867,
+    "lon": -1.1617,
+    "pop": 17189
+  },
+  "Cottingham": {
+    "lat": 53.7822,
+    "lon": -0.4136,
+    "pop": 17164
+  },
+  "Clitheroe": {
+    "lat": 53.8711,
+    "lon": -2.3916,
+    "pop": 17141
+  },
+  "Mosbrough": {
+    "lat": 53.325,
+    "lon": -1.362,
+    "pop": 17097
+  },
+  "Heysham": {
+    "lat": 54.046,
+    "lon": -2.894,
+    "pop": 17016
+  },
+  "Clayton": {
+    "lat": 53.782,
+    "lon": -1.8135,
+    "pop": 16982
+  },
+  "Maltby": {
+    "lat": 53.426,
+    "lon": -1.21,
+    "pop": 16856
+  },
+  "Braunstone": {
+    "lat": 52.616,
+    "lon": -1.175,
+    "pop": 16850
+  },
+  "Haslingden": {
+    "lat": 53.705,
+    "lon": -2.328,
+    "pop": 16849
+  },
+  "North Hykeham": {
+    "lat": 53.1833,
+    "lon": -0.5875,
+    "pop": 16844
+  },
+  "Devizes": {
+    "lat": 51.3528,
+    "lon": -1.9958,
+    "pop": 16834
+  },
+  "Saltash": {
+    "lat": 50.408,
+    "lon": -4.212,
+    "pop": 16830
+  },
+  "Haslemere": {
+    "lat": 51.09,
+    "lon": -0.712,
+    "pop": 16826
+  },
+  "Brixham": {
+    "lat": 50.394,
+    "lon": -3.516,
+    "pop": 16825
+  },
+  "Saint Ives": {
+    "lat": 50.211,
+    "lon": -5.48,
+    "pop": 11226
+  },
+  "Windlesham": {
+    "lat": 51.36,
+    "lon": -0.66,
+    "pop": 16775
+  },
+  "Plumstead": {
+    "lat": 51.49,
+    "lon": 0.09,
+    "pop": 16736
+  },
+  "Bredbury": {
+    "lat": 53.42,
+    "lon": -2.113,
+    "pop": 16721
+  },
+  "Banstead": {
+    "lat": 51.322,
+    "lon": -0.204,
+    "pop": 16666
+  },
+  "Keynsham": {
+    "lat": 51.4135,
+    "lon": -2.4968,
+    "pop": 16641
+  },
+  "Cleckheaton": {
+    "lat": 53.725,
+    "lon": -1.719,
+    "pop": 16622
+  },
+  "Cowley": {
+    "lat": 51.528,
+    "lon": -0.481,
+    "pop": 8776
+  },
+  "Ashby de la Zouch": {
+    "lat": 52.746,
+    "lon": -1.476,
+    "pop": 16491
+  },
+  "Enfield Lock": {
+    "lat": 51.6686,
+    "lon": -0.026,
+    "pop": 16469
+  },
+  "Westbury": {
+    "lat": 51.26,
+    "lon": -2.191,
+    "pop": 16414
+  },
+  "Stone": {
+    "lat": 52.9,
+    "lon": -2.15,
+    "pop": 16385
+  },
+  "Denby Dale": {
+    "lat": 53.572,
+    "lon": -1.655,
+    "pop": 16365
+  },
+  "Birstall": {
+    "lat": 52.6736,
+    "lon": -1.12,
+    "pop": 12216
+  },
+  "Ripon": {
+    "lat": 54.138,
+    "lon": -1.524,
+    "pop": 16274
+  },
+  "Queensbury": {
+    "lat": 53.7683,
+    "lon": -1.8453,
+    "pop": 16273
+  },
+  "Stepney": {
+    "lat": 51.5152,
+    "lon": -0.0462,
+    "pop": 16238
+  },
+  "Basford": {
+    "lat": 52.978,
+    "lon": -1.169,
+    "pop": 16207
+  },
+  "Tyldesley": {
+    "lat": 53.5166,
+    "lon": -2.4667,
+    "pop": 16142
+  },
+  "East Barnet": {
+    "lat": 51.643,
+    "lon": -0.163,
+    "pop": 16137
+  },
+  "Worcester Park": {
+    "lat": 51.3752,
+    "lon": -0.239,
+    "pop": 16031
+  },
+  "East Finchley": {
+    "lat": 51.5902,
+    "lon": -0.1753,
+    "pop": 15989
+  },
+  "Lewes": {
+    "lat": 50.8747,
+    "lon": 0.0117,
+    "pop": 15988
+  },
+  "Chertsey": {
+    "lat": 51.3902,
+    "lon": -0.5074,
+    "pop": 15967
+  },
+  "South Hayling": {
+    "lat": 50.78,
+    "lon": -0.97,
+    "pop": 15948
+  },
+  "Adwick le Street": {
+    "lat": 53.5677,
+    "lon": -1.1931,
+    "pop": 15911
+  },
+  "Addlestone": {
+    "lat": 51.3695,
+    "lon": -0.4901,
+    "pop": 15883
+  },
+  "Northallerton": {
+    "lat": 54.3378,
+    "lon": -1.4285,
+    "pop": 15741
+  },
+  "Lymington": {
+    "lat": 50.75,
+    "lon": -1.55,
+    "pop": 15726
+  },
+  "Carterton": {
+    "lat": 51.76,
+    "lon": -1.59,
+    "pop": 15680
+  },
+  "Ponders End": {
+    "lat": 51.646,
+    "lon": -0.046,
+    "pop": 15664
+  },
+  "Ince-in-Makerfield": {
+    "lat": 53.5402,
+    "lon": -2.599,
+    "pop": 15664
+  },
+  "West Ham": {
+    "lat": 51.534,
+    "lon": 0.008,
+    "pop": 15551
+  },
+  "Matlock": {
+    "lat": 53.14,
+    "lon": -1.55,
+    "pop": 15519
+  },
+  "Saffron Walden": {
+    "lat": 52.022,
+    "lon": 0.243,
+    "pop": 15504
+  },
+  "Shipley": {
+    "lat": 53.833,
+    "lon": -1.777,
+    "pop": 15483
+  },
+  "Todmorden": {
+    "lat": 53.713,
+    "lon": -2.096,
+    "pop": 15481
+  },
+  "Stapleford": {
+    "lat": 52.929,
+    "lon": -1.274,
+    "pop": 15453
+  },
+  "Weybridge": {
+    "lat": 51.362,
+    "lon": -0.453,
+    "pop": 15449
+  },
+  "Knaresborough": {
+    "lat": 54.0084,
+    "lon": -1.467,
+    "pop": 15441
+  },
+  "Baildon": {
+    "lat": 53.851,
+    "lon": -1.763,
+    "pop": 15360
+  },
+  "Perivale": {
+    "lat": 51.5383,
+    "lon": -0.3192,
+    "pop": 15339
+  },
+  "Wombwell": {
+    "lat": 53.516,
+    "lon": -1.4,
+    "pop": 15316
+  },
+  "Stanley": {
+    "lat": 53.7145,
+    "lon": -1.476,
+    "pop": 15314
+  },
+  "Broxbourne": {
+    "lat": 51.7495,
+    "lon": -0.0216,
+    "pop": 15303
+  },
+  "Dawlish": {
+    "lat": 50.581,
+    "lon": -3.466,
+    "pop": 15257
+  },
+  "Featherstone": {
+    "lat": 53.7,
+    "lon": -1.37,
+    "pop": 15244
+  },
+  "Mexborough": {
+    "lat": 53.4992,
+    "lon": -1.283,
+    "pop": 15244
+  },
+  "Northenden": {
+    "lat": 53.4075,
+    "lon": -2.2583,
+    "pop": 15200
+  },
+  "Chellaston": {
+    "lat": 52.8671,
+    "lon": -1.4384,
+    "pop": 15198
+  },
+  "Verwood": {
+    "lat": 50.8815,
+    "lon": -1.8785,
+    "pop": 15196
+  },
+  "Redruth": {
+    "lat": 50.2328,
+    "lon": -5.2264,
+    "pop": 15169
+  },
+  "Palmers Green": {
+    "lat": 51.6178,
+    "lon": -0.1092,
+    "pop": 15162
+  },
+  "Totteridge": {
+    "lat": 51.6354,
+    "lon": -0.2,
+    "pop": 15159
+  },
+  "Newport Pagnell": {
+    "lat": 52.087,
+    "lon": -0.722,
+    "pop": 15118
+  },
+  "Swallownest": {
+    "lat": 53.3623,
+    "lon": -1.3251,
+    "pop": 15022
+  },
+  "Netherton": {
+    "lat": 52.4908,
+    "lon": -2.0835,
+    "pop": 15017
+  },
+  "Hessle": {
+    "lat": 53.7239,
+    "lon": -0.4319,
+    "pop": 15000
+  },
+  "Winkfield": {
+    "lat": 51.4318,
+    "lon": -0.7096,
+    "pop": 14998
+  },
+  "Petersfield": {
+    "lat": 51.0038,
+    "lon": -0.9374,
+    "pop": 14974
+  },
+  "Kenley": {
+    "lat": 51.3242,
+    "lon": -0.0969,
+    "pop": 14966
+  },
+  "Sudbury": {
+    "lat": 52.0417,
+    "lon": 0.7282,
+    "pop": 13063
+  },
+  "Wyke": {
+    "lat": 53.7333,
+    "lon": -1.7667,
+    "pop": 14950
+  },
+  "Kew Green": {
+    "lat": 51.5308,
+    "lon": -0.2248,
+    "pop": 14915
+  },
+  "West Wickham": {
+    "lat": 51.3765,
+    "lon": -0.0193,
+    "pop": 14884
+  },
+  "Shepshed": {
+    "lat": 52.7711,
+    "lon": -1.2951,
+    "pop": 14875
+  },
+  "Chislehurst": {
+    "lat": 51.412,
+    "lon": 0.075,
+    "pop": 14831
+  },
+  "Ilkley": {
+    "lat": 53.925,
+    "lon": -1.822,
+    "pop": 14809
+  },
+  "Baguley": {
+    "lat": 53.399,
+    "lon": -2.276,
+    "pop": 14794
+  },
+  "Romsey": {
+    "lat": 50.989,
+    "lon": -1.4966,
+    "pop": 14768
+  },
+  "Balham": {
+    "lat": 51.4434,
+    "lon": -0.1525,
+    "pop": 14751
+  },
+  "Teignmouth": {
+    "lat": 50.5515,
+    "lon": -3.4886,
+    "pop": 14749
+  },
+  "Bodmin": {
+    "lat": 50.466,
+    "lon": -4.718,
+    "pop": 14736
+  },
+  "Melksham": {
+    "lat": 51.371,
+    "lon": -2.138,
+    "pop": 14677
+  },
+  "Wibsey": {
+    "lat": 53.7672,
+    "lon": -1.7728,
+    "pop": 14671
+  },
+  "Great Baddow": {
+    "lat": 51.719,
+    "lon": 0.507,
+    "pop": 14650
+  },
+  "Skipton": {
+    "lat": 53.9625,
+    "lon": -2.0163,
+    "pop": 14623
+  },
+  "Lowton": {
+    "lat": 53.471,
+    "lon": -2.569,
+    "pop": 14605
+  },
+  "Burbage": {
+    "lat": 52.5277,
+    "lon": -1.3483,
+    "pop": 14568
+  },
+  "Thorpe Saint Andrew": {
+    "lat": 52.6354,
+    "lon": 1.3431,
+    "pop": 14556
+  },
+  "Moston": {
+    "lat": 53.5156,
+    "lon": -2.1848,
+    "pop": 14518
+  },
+  "Chelsfield": {
+    "lat": 51.3582,
+    "lon": 0.1278,
+    "pop": 14507
+  },
+  "Thornbury": {
+    "lat": 51.6094,
+    "lon": -2.5249,
+    "pop": 14496
+  },
+  "Morton": {
+    "lat": 51.6094,
+    "lon": -2.5249,
+    "pop": 14496
+  },
+  "Uckfield": {
+    "lat": 50.97,
+    "lon": 0.1,
+    "pop": 14493
+  },
+  "Armthorpe": {
+    "lat": 53.5352,
+    "lon": -1.0522,
+    "pop": 14457
+  },
+  "Southgate": {
+    "lat": 51.6316,
+    "lon": -0.1265,
+    "pop": 14454
+  },
+  "Dollis Hill": {
+    "lat": 51.5641,
+    "lon": -0.2341,
+    "pop": 14425
+  },
+  "Wymondham": {
+    "lat": 52.57,
+    "lon": 1.116,
+    "pop": 14405
+  },
+  "Amersham": {
+    "lat": 51.677,
+    "lon": -0.603,
+    "pop": 14384
+  },
+  "Cowes": {
+    "lat": 50.7595,
+    "lon": -1.3002,
+    "pop": 14370
+  },
+  "West Drayton": {
+    "lat": 51.5043,
+    "lon": -0.4646,
+    "pop": 14370
+  },
+  "Conisbrough": {
+    "lat": 53.479,
+    "lon": -1.227,
+    "pop": 14333
+  },
+  "Rottingdean": {
+    "lat": 50.815,
+    "lon": -0.065,
+    "pop": 14324
+  },
+  "Kidbrooke": {
+    "lat": 51.4621,
+    "lon": 0.0273,
+    "pop": 14300
+  },
+  "Shirley": {
+    "lat": 51.3813,
+    "lon": -0.0543,
+    "pop": 14296
+  },
+  "Chard": {
+    "lat": 50.8728,
+    "lon": -2.9587,
+    "pop": 14287
+  },
+  "Patcham": {
+    "lat": 50.864,
+    "lon": -0.15,
+    "pop": 14277
+  },
+  "Poynton": {
+    "lat": 53.35,
+    "lon": -2.1167,
+    "pop": 14260
+  },
+  "Seacroft": {
+    "lat": 53.8222,
+    "lon": -1.4599,
+    "pop": 14246
+  },
+  "Maldon": {
+    "lat": 51.7318,
+    "lon": 0.6758,
+    "pop": 14220
+  },
+  "Kearsley": {
+    "lat": 53.53,
+    "lon": -2.37,
+    "pop": 14212
+  },
+  "Leyton": {
+    "lat": 51.57,
+    "lon": -0.015,
+    "pop": 14184
+  },
+  "Mackworth": {
+    "lat": 52.9277,
+    "lon": -1.5373,
+    "pop": 14180
+  },
+  "Ashtead": {
+    "lat": 51.31,
+    "lon": -0.299,
+    "pop": 14169
+  },
+  "Wombourn": {
+    "lat": 52.5302,
+    "lon": -2.1857,
+    "pop": 14157
+  },
+  "Bishops Cleeve": {
+    "lat": 51.947,
+    "lon": -2.061,
+    "pop": 14068
+  },
+  "Nantwich": {
+    "lat": 53.067,
+    "lon": -2.522,
+    "pop": 14045
+  },
+  "Hazel Grove": {
+    "lat": 53.375,
+    "lon": -2.111,
+    "pop": 14022
+  },
+  "Uttoxeter": {
+    "lat": 52.898,
+    "lon": -1.86,
+    "pop": 14014
+  },
+  "Marlow": {
+    "lat": 51.57,
+    "lon": -0.78,
+    "pop": 14004
+  },
+  "Brierley Hill": {
+    "lat": 52.4795,
+    "lon": -2.1245,
+    "pop": 13935
+  },
+  "Streetly": {
+    "lat": 52.577,
+    "lon": -1.884,
+    "pop": 13934
+  },
+  "Bickley": {
+    "lat": 51.4003,
+    "lon": 0.0466,
+    "pop": 13904
+  },
+  "Rustington": {
+    "lat": 50.8102,
+    "lon": -0.5052,
+    "pop": 13883
+  },
+  "Cosham": {
+    "lat": 50.8424,
+    "lon": -1.066,
+    "pop": 13830
+  },
+  "Littleborough": {
+    "lat": 53.644,
+    "lon": -2.098,
+    "pop": 13807
+  },
+  "Sidmouth": {
+    "lat": 50.68,
+    "lon": -3.239,
+    "pop": 13737
+  },
+  "Kidlington": {
+    "lat": 51.8231,
+    "lon": -1.2903,
+    "pop": 13723
+  },
+  "Knottingley": {
+    "lat": 53.705,
+    "lon": -1.249,
+    "pop": 13710
+  },
+  "Otley": {
+    "lat": 53.905,
+    "lon": -1.687,
+    "pop": 13668
+  },
+  "Allestree": {
+    "lat": 52.9519,
+    "lon": -1.4856,
+    "pop": 13622
+  },
+  "Middlewich": {
+    "lat": 53.192,
+    "lon": -2.443,
+    "pop": 13595
+  },
+  "Royal Wootton Bassett": {
+    "lat": 51.533,
+    "lon": -1.9,
+    "pop": 13570
+  },
+  "Bridport": {
+    "lat": 50.7336,
+    "lon": -2.7584,
+    "pop": 13569
+  },
+  "Rossington": {
+    "lat": 53.4759,
+    "lon": -1.0613,
+    "pop": 13557
+  },
+  "Hilsea": {
+    "lat": 50.83,
+    "lon": -1.07,
+    "pop": 13552
+  },
+  "Hemsworth": {
+    "lat": 53.61,
+    "lon": -1.35,
+    "pop": 13533
+  },
+  "Little Hulton": {
+    "lat": 53.53,
+    "lon": -2.418,
+    "pop": 13469
+  },
+  "Stroud": {
+    "lat": 51.744,
+    "lon": -2.215,
+    "pop": 13468
+  },
+  "Chaddesden": {
+    "lat": 52.9301,
+    "lon": -1.4383,
+    "pop": 13413
+  },
+  "Amblecote": {
+    "lat": 52.46,
+    "lon": -2.16,
+    "pop": 13393
+  },
+  "Alsager": {
+    "lat": 53.096,
+    "lon": -2.305,
+    "pop": 13389
+  },
+  "Saint Budeaux": {
+    "lat": 50.4033,
+    "lon": -4.1856,
+    "pop": 13369
+  },
+  "Corsham": {
+    "lat": 51.434,
+    "lon": -2.185,
+    "pop": 13369
+  },
+  "Egg Buckland": {
+    "lat": 50.4006,
+    "lon": -4.1136,
+    "pop": 13351
+  },
+  "Bacup": {
+    "lat": 53.704,
+    "lon": -2.199,
+    "pop": 13323
+  },
+  "Ampthill": {
+    "lat": 52.0263,
+    "lon": -0.4906,
+    "pop": 13307
+  },
+  "Shirebrook": {
+    "lat": 53.2048,
+    "lon": -1.2197,
+    "pop": 13300
+  },
+  "Thame": {
+    "lat": 51.75,
+    "lon": -0.97,
+    "pop": 13273
+  },
+  "Knutsford": {
+    "lat": 53.3025,
+    "lon": -2.3708,
+    "pop": 13259
+  },
+  "Walsall Wood": {
+    "lat": 52.6277,
+    "lon": -1.9301,
+    "pop": 13207
+  },
+  "Southwick": {
+    "lat": 50.836,
+    "lon": -0.239,
+    "pop": 13195
+  },
+  "Hamworthy": {
+    "lat": 50.7207,
+    "lon": -2.0109,
+    "pop": 13141
+  },
+  "Wantage": {
+    "lat": 51.589,
+    "lon": -1.427,
+    "pop": 13106
+  },
+  "Wollaston": {
+    "lat": 52.4619,
+    "lon": -2.1663,
+    "pop": 13092
+  },
+  "Great Driffield": {
+    "lat": 54.005,
+    "lon": -0.438,
+    "pop": 13080
+  },
+  "Pendlebury": {
+    "lat": 53.5075,
+    "lon": -2.3154,
+    "pop": 13069
+  },
+  "Goodmayes": {
+    "lat": 51.5631,
+    "lon": 0.1133,
+    "pop": 13069
+  },
+  "Milnrow": {
+    "lat": 53.6101,
+    "lon": -2.1111,
+    "pop": 13061
+  },
+  "Holborn": {
+    "lat": 51.5204,
+    "lon": -0.1136,
+    "pop": 13023
+  },
+  "Brackley": {
+    "lat": 52.032,
+    "lon": -1.147,
+    "pop": 13018
+  },
+  "Midsomer Norton": {
+    "lat": 51.2842,
+    "lon": -2.4817,
+    "pop": 13000
+  },
+  "Gornalwood": {
+    "lat": 52.523,
+    "lon": -2.124,
+    "pop": 12992
+  },
+  "Yiewsley": {
+    "lat": 51.513,
+    "lon": -0.471,
+    "pop": 12979
+  },
+  "Shenley Church End": {
+    "lat": 52.022,
+    "lon": -0.788,
+    "pop": 12961
+  },
+  "Leagrave": {
+    "lat": 51.903,
+    "lon": -0.466,
+    "pop": 12910
+  },
+  "Cliftonville": {
+    "lat": 51.3881,
+    "lon": 1.4046,
+    "pop": 12900
+  },
+  "Buckingham": {
+    "lat": 51.995,
+    "lon": -0.986,
+    "pop": 12890
+  },
+  "Chilwell": {
+    "lat": 52.916,
+    "lon": -1.235,
+    "pop": 12864
+  },
+  "Syston": {
+    "lat": 52.7,
+    "lon": -1.08,
+    "pop": 12804
+  },
+  "Little Lever": {
+    "lat": 53.563,
+    "lon": -2.369,
+    "pop": 12803
+  },
+  "Sanderstead": {
+    "lat": 51.3358,
+    "lon": -0.0818,
+    "pop": 12777
+  },
+  "Chalfont Saint Peter": {
+    "lat": 51.607,
+    "lon": -0.556,
+    "pop": 12766
+  },
+  "Lymm": {
+    "lat": 53.3834,
+    "lon": -2.475,
+    "pop": 12700
+  },
+  "Flitwick": {
+    "lat": 52.0038,
+    "lon": -0.4966,
+    "pop": 12700
+  },
+  "Brownhills": {
+    "lat": 52.647,
+    "lon": -1.933,
+    "pop": 12676
+  },
+  "Hornsey": {
+    "lat": 51.587,
+    "lon": -0.118,
+    "pop": 12659
+  },
+  "Sutton on Hull": {
+    "lat": 53.7806,
+    "lon": -0.3047,
+    "pop": 12649
+  },
+  "Market Warsop": {
+    "lat": 53.2,
+    "lon": -1.15,
+    "pop": 12644
+  },
+  "Warsop": {
+    "lat": 53.2,
+    "lon": -1.15,
+    "pop": 12644
+  },
+  "Horndean": {
+    "lat": 50.9136,
+    "lon": -0.9961,
+    "pop": 12639
+  },
+  "North Walsham": {
+    "lat": 52.8214,
+    "lon": 1.3861,
+    "pop": 12634
+  },
+  "Wordsley": {
+    "lat": 52.483,
+    "lon": -2.15,
+    "pop": 12582
+  },
+  "Croxley Green": {
+    "lat": 51.647,
+    "lon": -0.445,
+    "pop": 12562
+  },
+  "Mablethorpe": {
+    "lat": 53.3409,
+    "lon": 0.261,
+    "pop": 12531
+  },
+  "Wolverton": {
+    "lat": 52.0626,
+    "lon": -0.8102,
+    "pop": 12492
+  },
+  "Costessey": {
+    "lat": 52.6602,
+    "lon": 1.2161,
+    "pop": 12463
+  },
+  "Barton upon Irwell": {
+    "lat": 53.476,
+    "lon": -2.36,
+    "pop": 12462
+  },
+  "Cromer": {
+    "lat": 52.931,
+    "lon": 1.302,
+    "pop": 12457
+  },
+  "Bickenhill": {
+    "lat": 52.439,
+    "lon": -1.725,
+    "pop": 12456
+  },
+  "Tilbury": {
+    "lat": 51.4606,
+    "lon": 0.3582,
+    "pop": 12450
+  },
+  "Chigwell": {
+    "lat": 51.6225,
+    "lon": 0.0723,
+    "pop": 12449
+  },
+  "Hersham": {
+    "lat": 51.3681,
+    "lon": -0.4008,
+    "pop": 12414
+  },
+  "Spondon": {
+    "lat": 52.92,
+    "lon": -1.401,
+    "pop": 12377
+  },
+  "Coseley": {
+    "lat": 52.55,
+    "lon": -2.083,
+    "pop": 12357
+  },
+  "Ovenden": {
+    "lat": 53.7432,
+    "lon": -1.8779,
+    "pop": 12351
+  },
+  "Lye": {
+    "lat": 52.459,
+    "lon": -2.116,
+    "pop": 12346
+  },
+  "New Mills": {
+    "lat": 53.367,
+    "lon": -2.007,
+    "pop": 12291
+  },
+  "Harrow on the Hill": {
+    "lat": 51.5655,
+    "lon": -0.3327,
+    "pop": 12270
+  },
+  "Selston": {
+    "lat": 53.07,
+    "lon": -1.3,
+    "pop": 12240
+  },
+  "Newhaven": {
+    "lat": 50.8,
+    "lon": 0.06,
+    "pop": 12232
+  },
+  "Olton": {
+    "lat": 52.4377,
+    "lon": -1.8058,
+    "pop": 12167
+  },
+  "Cheadle": {
+    "lat": 52.9849,
+    "lon": -1.9865,
+    "pop": 12165
+  },
+  "Bamber Bridge": {
+    "lat": 53.7281,
+    "lon": -2.6606,
+    "pop": 12126
+  },
+  "Huntington": {
+    "lat": 53.9926,
+    "lon": -1.043,
+    "pop": 12108
+  },
+  "Tring": {
+    "lat": 51.7962,
+    "lon": -0.6592,
+    "pop": 12099
+  },
+  "North Tidworth": {
+    "lat": 51.237,
+    "lon": -1.664,
+    "pop": 12089
+  },
+  "Sedgley": {
+    "lat": 52.54,
+    "lon": -2.123,
+    "pop": 12087
+  },
+  "Beaconsfield": {
+    "lat": 51.6009,
+    "lon": -0.6347,
+    "pop": 12081
+  },
+  "Bridgnorth": {
+    "lat": 52.535,
+    "lon": -2.4195,
+    "pop": 12079
+  },
+  "Fenton": {
+    "lat": 52.9977,
+    "lon": -2.1578,
+    "pop": 12070
+  },
+  "Walton-on-the-Naze": {
+    "lat": 51.848,
+    "lon": 1.268,
+    "pop": 12054
+  },
+  "Bentley": {
+    "lat": 53.551,
+    "lon": -1.144,
+    "pop": 12048
+  },
+  "Wells": {
+    "lat": 51.2094,
+    "lon": -2.645,
+    "pop": 12000
+  },
+  "Minehead": {
+    "lat": 51.2038,
+    "lon": -3.4738,
+    "pop": 11981
+  },
+  "Sheerness": {
+    "lat": 51.441,
+    "lon": 0.76,
+    "pop": 11938
+  },
+  "Sandridge": {
+    "lat": 51.7808,
+    "lon": -0.3038,
+    "pop": 11919
+  },
+  "Halstead": {
+    "lat": 51.9451,
+    "lon": 0.6411,
+    "pop": 11906
+  },
+  "Rushall": {
+    "lat": 52.6089,
+    "lon": -1.9592,
+    "pop": 11871
+  },
+  "Snaresbrook": {
+    "lat": 51.587,
+    "lon": 0.0146,
+    "pop": 11868
+  },
+  "Eckington": {
+    "lat": 53.308,
+    "lon": -1.3643,
+    "pop": 11855
+  },
+  "Hoyland Nether": {
+    "lat": 53.4985,
+    "lon": -1.4406,
+    "pop": 11852
+  },
+  "Ivybridge": {
+    "lat": 50.389,
+    "lon": -3.921,
+    "pop": 11851
+  },
+  "Torton": {
+    "lat": 52.4522,
+    "lon": -2.1606,
+    "pop": 11841
+  },
+  "Trentham": {
+    "lat": 52.9663,
+    "lon": -2.1899,
+    "pop": 11836
+  },
+  "Wath upon Dearne": {
+    "lat": 53.5022,
+    "lon": -1.3402,
+    "pop": 11816
+  },
+  "Street": {
+    "lat": 51.127,
+    "lon": -2.74,
+    "pop": 11805
+  },
+  "Oswaldtwistle": {
+    "lat": 53.743,
+    "lon": -2.393,
+    "pop": 11803
+  },
+  "Market Drayton": {
+    "lat": 52.9044,
+    "lon": -2.4848,
+    "pop": 11773
+  },
+  "Hackney": {
+    "lat": 51.541,
+    "lon": -0.027,
+    "pop": 11734
+  },
+  "Wetherby": {
+    "lat": 53.9276,
+    "lon": -1.3839,
+    "pop": 11712
+  },
+  "Sowerby Bridge": {
+    "lat": 53.71,
+    "lon": -1.91,
+    "pop": 11703
+  },
+  "Ulverston": {
+    "lat": 54.193,
+    "lon": -3.09,
+    "pop": 11678
+  },
+  "Elland": {
+    "lat": 53.683,
+    "lon": -1.84,
+    "pop": 11676
+  },
+  "Bolsover": {
+    "lat": 53.2304,
+    "lon": -1.2875,
+    "pop": 11673
+  },
+  "Sandy": {
+    "lat": 52.131,
+    "lon": -0.297,
+    "pop": 11657
+  },
+  "Burnham": {
+    "lat": 51.54,
+    "lon": -0.66,
+    "pop": 11630
+  },
+  "Henley on Thames": {
+    "lat": 51.5357,
+    "lon": -0.903,
+    "pop": 11619
+  },
+  "Ascot": {
+    "lat": 51.4084,
+    "lon": -0.6707,
+    "pop": 11603
+  },
+  "Sunninghill": {
+    "lat": 51.4025,
+    "lon": -0.655,
+    "pop": 11603
+  },
+  "Wallingford": {
+    "lat": 51.599,
+    "lon": -1.125,
+    "pop": 11600
+  },
+  "Belgrave": {
+    "lat": 52.6566,
+    "lon": -1.1262,
+    "pop": 11558
+  },
+  "Wanstead": {
+    "lat": 51.5778,
+    "lon": 0.0286,
+    "pop": 11543
+  },
+  "Brislington": {
+    "lat": 51.4316,
+    "lon": -2.5439,
+    "pop": 11511
+  },
+  "Tadley": {
+    "lat": 51.3506,
+    "lon": -1.1376,
+    "pop": 11473
+  },
+  "Culcheth": {
+    "lat": 53.4517,
+    "lon": -2.5218,
+    "pop": 11454
+  },
+  "Dawley": {
+    "lat": 52.663,
+    "lon": -2.467,
+    "pop": 11399
+  },
+  "Wealdstone": {
+    "lat": 51.5957,
+    "lon": -0.3352,
+    "pop": 11394
+  },
+  "Greetland": {
+    "lat": 53.6869,
+    "lon": -1.8714,
+    "pop": 11389
+  },
+  "Buckhurst Hill": {
+    "lat": 51.632,
+    "lon": 0.036,
+    "pop": 11380
+  },
+  "Harrow Weald": {
+    "lat": 51.604,
+    "lon": -0.339,
+    "pop": 11376
+  },
+  "Great Bookham": {
+    "lat": 51.278,
+    "lon": -0.373,
+    "pop": 11375
+  },
+  "Little Bookham": {
+    "lat": 51.2804,
+    "lon": -0.3897,
+    "pop": 11375
+  },
+  "Pelsall": {
+    "lat": 52.631,
+    "lon": -1.972,
+    "pop": 11371
+  },
+  "Leatherhead": {
+    "lat": 51.295,
+    "lon": -0.329,
+    "pop": 11316
+  },
+  "Oxted": {
+    "lat": 51.257,
+    "lon": -0.006,
+    "pop": 11314
+  },
+  "Burslem": {
+    "lat": 53.0426,
+    "lon": -2.1879,
+    "pop": 11314
+  },
+  "Hipperholme": {
+    "lat": 53.7258,
+    "lon": -1.812,
+    "pop": 11308
+  },
+  "Chorleywood": {
+    "lat": 51.65,
+    "lon": -0.51,
+    "pop": 11286
+  },
+  "Stanwell": {
+    "lat": 51.457,
+    "lon": -0.4715,
+    "pop": 11279
+  },
+  "Astley": {
+    "lat": 53.5008,
+    "lon": -2.4454,
+    "pop": 11270
+  },
+  "Boultham": {
+    "lat": 53.214,
+    "lon": -0.5561,
+    "pop": 11258
+  },
+  "Kingsnorth": {
+    "lat": 51.1178,
+    "lon": 0.8615,
+    "pop": 11243
+  },
+  "Greasley": {
+    "lat": 53.02,
+    "lon": -1.27,
+    "pop": 11241
+  },
+  "Cranleigh": {
+    "lat": 51.1363,
+    "lon": -0.4784,
+    "pop": 11241
+  },
+  "Crayford": {
+    "lat": 51.4491,
+    "lon": 0.1812,
+    "pop": 11226
+  },
+  "Castle Bromwich": {
+    "lat": 52.505,
+    "lon": -1.7856,
+    "pop": 11217
+  },
+  "Linslade": {
+    "lat": 51.9243,
+    "lon": -0.6774,
+    "pop": 11185
+  },
+  "Ilfracombe": {
+    "lat": 51.208,
+    "lon": -4.12,
+    "pop": 11184
+  },
+  "Wootton": {
+    "lat": 52.2007,
+    "lon": -0.8857,
+    "pop": 11180
+  },
+  "Dorking": {
+    "lat": 51.2325,
+    "lon": -0.3306,
+    "pop": 11158
+  },
+  "Honiton": {
+    "lat": 50.8,
+    "lon": -3.19,
+    "pop": 11156
+  },
+  "Aylestone": {
+    "lat": 52.604,
+    "lon": -1.154,
+    "pop": 11151
+  },
+  "Dorridge": {
+    "lat": 52.372,
+    "lon": -1.7554,
+    "pop": 11140
+  },
+  "Evington": {
+    "lat": 52.628,
+    "lon": -1.074,
+    "pop": 11133
+  },
+  "Southborough": {
+    "lat": 51.1598,
+    "lon": 0.2652,
+    "pop": 11124
+  },
+  "Iver": {
+    "lat": 51.521,
+    "lon": -0.507,
+    "pop": 11119
+  },
+  "Ollerton": {
+    "lat": 53.2,
+    "lon": -1.02,
+    "pop": 11103
+  },
+  "Barton upon Humber": {
+    "lat": 53.6833,
+    "lon": -0.45,
+    "pop": 11066
+  },
+  "Timperley": {
+    "lat": 53.387,
+    "lon": -2.328,
+    "pop": 11061
+  },
+  "Whitchurch": {
+    "lat": 51.4064,
+    "lon": -2.5594,
+    "pop": 11061
+  },
+  "Great Wyrley": {
+    "lat": 52.6593,
+    "lon": -2.0102,
+    "pop": 11060
+  },
+  "Epping": {
+    "lat": 51.7004,
+    "lon": 0.1087,
+    "pop": 11047
+  },
+  "Bottesford": {
+    "lat": 53.5521,
+    "lon": -0.6714,
+    "pop": 11038
+  },
+  "Tavistock": {
+    "lat": 50.545,
+    "lon": -4.15,
+    "pop": 11018
+  },
+  "Chatteris": {
+    "lat": 52.456,
+    "lon": 0.055,
+    "pop": 11011
+  },
+  "Churchdown": {
+    "lat": 51.88,
+    "lon": -2.17,
+    "pop": 10990
+  },
+  "Cudworth": {
+    "lat": 53.5784,
+    "lon": -1.4149,
+    "pop": 10977
+  },
+  "Oakham": {
+    "lat": 52.6705,
+    "lon": -0.7333,
+    "pop": 10975
+  },
+  "Hellesdon": {
+    "lat": 52.6485,
+    "lon": 1.2509,
+    "pop": 10957
+  },
+  "Highgate": {
+    "lat": 51.5716,
+    "lon": -0.1448,
+    "pop": 10955
+  },
+  "Mossley": {
+    "lat": 53.5147,
+    "lon": -2.0387,
+    "pop": 10921
+  },
+  "Hollinwood": {
+    "lat": 53.5183,
+    "lon": -2.144,
+    "pop": 10920
+  },
+  "Great Harwood": {
+    "lat": 53.786,
+    "lon": -2.408,
+    "pop": 10890
+  },
+  "Soham": {
+    "lat": 52.3338,
+    "lon": 0.3361,
+    "pop": 10860
+  },
+  "Biggin Hill": {
+    "lat": 51.3127,
+    "lon": 0.0336,
+    "pop": 10817
+  },
+  "Shepton Mallet": {
+    "lat": 51.193,
+    "lon": -2.546,
+    "pop": 10810
+  },
+  "Wooburn": {
+    "lat": 51.581,
+    "lon": -0.691,
+    "pop": 10792
+  },
+  "Flixton": {
+    "lat": 53.447,
+    "lon": -2.391,
+    "pop": 10786
+  },
+  "Parkstone": {
+    "lat": 50.71,
+    "lon": -1.95,
+    "pop": 10779
+  },
+  "Barnoldswick": {
+    "lat": 53.9147,
+    "lon": -2.1895,
+    "pop": 10752
+  },
+  "Selsey": {
+    "lat": 50.735,
+    "lon": -0.7898,
+    "pop": 10737
+  },
+  "Amesbury": {
+    "lat": 51.173,
+    "lon": -1.78,
+    "pop": 10724
+  },
+  "Diss": {
+    "lat": 52.3812,
+    "lon": 1.1079,
+    "pop": 10714
+  },
+  "Ross on Wye": {
+    "lat": 51.914,
+    "lon": -2.587,
+    "pop": 10700
+  },
+  "Desborough": {
+    "lat": 52.4398,
+    "lon": -0.8172,
+    "pop": 10697
+  },
+  "Hatch End": {
+    "lat": 51.601,
+    "lon": -0.3743,
+    "pop": 10693
+  },
+  "Chesterfield": {
+    "lat": 53.2363,
+    "lon": -1.4292,
+    "pop": 10688
+  },
+  "Darfield": {
+    "lat": 53.538,
+    "lon": -1.3812,
+    "pop": 10685
+  },
+  "Knowle": {
+    "lat": 52.3881,
+    "lon": -1.7318,
+    "pop": 10678
+  },
+  "Aylesford": {
+    "lat": 51.3033,
+    "lon": 0.4796,
+    "pop": 10660
+  },
+  "Felton": {
+    "lat": 51.51,
+    "lon": -2.574,
+    "pop": 10607
+  },
+  "Englefield Green": {
+    "lat": 51.4301,
+    "lon": -0.5699,
+    "pop": 10607
+  },
+  "Kingsteignton": {
+    "lat": 50.5458,
+    "lon": -3.5962,
+    "pop": 10600
+  },
+  "Whitnash": {
+    "lat": 52.268,
+    "lon": -1.524,
+    "pop": 10489
+  },
+  "Attleborough": {
+    "lat": 52.5183,
+    "lon": 1.0192,
+    "pop": 10482
+  },
+  "Holbeach": {
+    "lat": 52.8037,
+    "lon": 0.0154,
+    "pop": 10458
+  },
+  "Launceston": {
+    "lat": 50.637,
+    "lon": -4.36,
+    "pop": 10452
+  },
+  "Burton Latimer": {
+    "lat": 52.365,
+    "lon": -0.678,
+    "pop": 10444
+  },
+  "Scartho": {
+    "lat": 53.5399,
+    "lon": -0.0926,
+    "pop": 10408
+  },
+  "Bradford-on-Avon": {
+    "lat": 51.347,
+    "lon": -2.251,
+    "pop": 10405
+  },
+  "Northfield": {
+    "lat": 52.408,
+    "lon": -1.963,
+    "pop": 10404
+  },
+  "Great Dunmow": {
+    "lat": 51.871,
+    "lon": 0.364,
+    "pop": 10396
+  },
+  "Charlton Kings": {
+    "lat": 51.8877,
+    "lon": -2.0413,
+    "pop": 10396
+  },
+  "Ickenham": {
+    "lat": 51.558,
+    "lon": -0.4484,
+    "pop": 10387
+  },
+  "Blandford Forum": {
+    "lat": 50.856,
+    "lon": -2.165,
+    "pop": 10355
+  },
+  "Teddington": {
+    "lat": 51.424,
+    "lon": -0.332,
+    "pop": 10330
+  },
+  "Mildenhall": {
+    "lat": 52.3446,
+    "lon": 0.5089,
+    "pop": 10315
+  },
+  "Broadstone": {
+    "lat": 50.7605,
+    "lon": -1.995,
+    "pop": 10303
+  },
+  "Spitalfields": {
+    "lat": 51.5166,
+    "lon": -0.075,
+    "pop": 10286
+  },
+  "Cheam": {
+    "lat": 51.36,
+    "lon": -0.21,
+    "pop": 10285
+  },
+  "Appleton": {
+    "lat": 53.3508,
+    "lon": -2.5441,
+    "pop": 10265
+  },
+  "Snodland": {
+    "lat": 51.328,
+    "lon": 0.4467,
+    "pop": 10211
+  },
+  "Castleton": {
+    "lat": 53.5907,
+    "lon": -2.1737,
+    "pop": 10159
+  },
+  "Great Missenden": {
+    "lat": 51.7042,
+    "lon": -0.7078,
+    "pop": 10138
+  },
+  "Corfe Mullen": {
+    "lat": 50.7701,
+    "lon": -2.0175,
+    "pop": 10133
+  },
+  "Pocklington": {
+    "lat": 53.9309,
+    "lon": -0.7781,
+    "pop": 10123
+  },
+  "Beccles": {
+    "lat": 52.458,
+    "lon": 1.563,
+    "pop": 10123
+  },
+  "Padiham": {
+    "lat": 53.797,
+    "lon": -2.311,
+    "pop": 10098
+  },
+  "Worsley": {
+    "lat": 53.5093,
+    "lon": -2.3845,
+    "pop": 10090
+  },
+  "Warfield": {
+    "lat": 51.442,
+    "lon": -0.737,
+    "pop": 10088
+  },
+  "Bingham": {
+    "lat": 52.952,
+    "lon": -0.953,
+    "pop": 10080
+  },
+  "Radlett": {
+    "lat": 51.685,
+    "lon": -0.318,
+    "pop": 10060
+  },
+  "Vange": {
+    "lat": 51.55,
+    "lon": 0.4667,
+    "pop": 10048
+  },
+  "Chapeltown": {
+    "lat": 53.462,
+    "lon": -1.466,
+    "pop": 10043
+  },
+  "Lydney": {
+    "lat": 51.7286,
+    "lon": -2.5285,
+    "pop": 10043
+  },
+  "Southwater": {
+    "lat": 51.0238,
+    "lon": -0.3526,
+    "pop": 10025
+  },
+  "Horbury": {
+    "lat": 53.6595,
+    "lon": -1.5324,
+    "pop": 10002
+  },
+  "Downham Market": {
+    "lat": 52.6,
+    "lon": 0.39,
+    "pop": 9994
+  },
+  "Euxton": {
+    "lat": 53.662,
+    "lon": -2.674,
+    "pop": 9993
+  },
+  "Bishopstoke": {
+    "lat": 50.9679,
+    "lon": -1.3278,
+    "pop": 9974
+  },
+  "Birchington": {
+    "lat": 51.377,
+    "lon": 1.305,
+    "pop": 9961
+  },
+  "Handsworth": {
+    "lat": 53.37,
+    "lon": -1.4,
+    "pop": 9957
+  },
+  "Aldenham": {
+    "lat": 51.6723,
+    "lon": -0.3546,
+    "pop": 9942
+  },
+  "Balderton": {
+    "lat": 53.0549,
+    "lon": -0.7727,
+    "pop": 9917
+  },
+  "Liskeard": {
+    "lat": 50.4536,
+    "lon": -4.4651,
+    "pop": 9912
+  },
+  "Baldock": {
+    "lat": 51.99,
+    "lon": -0.19,
+    "pop": 9900
+  },
+  "Worth": {
+    "lat": 51.113,
+    "lon": -0.147,
+    "pop": 9888
+  },
+  "Stocksbridge": {
+    "lat": 53.478,
+    "lon": -1.588,
+    "pop": 9869
+  },
+  "Abram": {
+    "lat": 53.508,
+    "lon": -2.588,
+    "pop": 9855
+  },
+  "Kippax": {
+    "lat": 53.7669,
+    "lon": -1.3705,
+    "pop": 9785
+  },
+  "Tottington": {
+    "lat": 53.613,
+    "lon": -2.339,
+    "pop": 9783
+  },
+  "Helston": {
+    "lat": 50.1,
+    "lon": -5.27,
+    "pop": 9780
+  },
+  "Dodworth": {
+    "lat": 53.5417,
+    "lon": -1.5214,
+    "pop": 9777
+  },
+  "Shepperton": {
+    "lat": 51.39,
+    "lon": -0.46,
+    "pop": 9753
+  },
+  "Felpham": {
+    "lat": 50.7905,
+    "lon": -0.6539,
+    "pop": 9746
+  },
+  "Cobham": {
+    "lat": 51.329,
+    "lon": -0.409,
+    "pop": 9739
+  },
+  "Raynes Park": {
+    "lat": 51.4033,
+    "lon": -0.2321,
+    "pop": 9738
+  },
+  "Lambeth": {
+    "lat": 51.49,
+    "lon": -0.119,
+    "pop": 9675
+  },
+  "Bradwell": {
+    "lat": 52.05,
+    "lon": -0.787,
+    "pop": 9657
+  },
+  "Glenfield": {
+    "lat": 52.6491,
+    "lon": -1.2062,
+    "pop": 9643
+  },
+  "Immingham": {
+    "lat": 53.6139,
+    "lon": -0.2183,
+    "pop": 9642
+  },
+  "Hockley": {
+    "lat": 51.6014,
+    "lon": 0.6363,
+    "pop": 9616
+  },
+  "Swanage": {
+    "lat": 50.608,
+    "lon": -1.96,
+    "pop": 9601
+  },
+  "Boxley": {
+    "lat": 51.3024,
+    "lon": 0.5429,
+    "pop": 9554
+  },
+  "Tadworth": {
+    "lat": 51.294,
+    "lon": -0.242,
+    "pop": 9522
+  },
+  "Worsborough": {
+    "lat": 53.52,
+    "lon": -1.47,
+    "pop": 9516
+  },
+  "London Colney": {
+    "lat": 51.726,
+    "lon": -0.3,
+    "pop": 9507
+  },
+  "Emsworth": {
+    "lat": 50.849,
+    "lon": -0.938,
+    "pop": 9492
+  },
+  "Bewdley": {
+    "lat": 52.3758,
+    "lon": -2.315,
+    "pop": 9470
+  },
+  "South Normanton": {
+    "lat": 53.107,
+    "lon": -1.343,
+    "pop": 9445
+  },
+  "Killamarsh": {
+    "lat": 53.3205,
+    "lon": -1.3116,
+    "pop": 9445
+  },
+  "Brockworth": {
+    "lat": 51.85,
+    "lon": -2.15,
+    "pop": 9422
+  },
+  "Radstock": {
+    "lat": 51.293,
+    "lon": -2.448,
+    "pop": 9419
+  },
+  "Thames Ditton": {
+    "lat": 51.389,
+    "lon": -0.331,
+    "pop": 9400
+  },
+  "Hayle": {
+    "lat": 50.186,
+    "lon": -5.419,
+    "pop": 9400
+  },
+  "Horsell": {
+    "lat": 51.3286,
+    "lon": -0.5617,
+    "pop": 9384
+  },
+  "Raunds": {
+    "lat": 52.345,
+    "lon": -0.537,
+    "pop": 9379
+  },
+  "Broadwater": {
+    "lat": 50.8282,
+    "lon": -0.3742,
+    "pop": 9373
+  },
+  "Wilnecote": {
+    "lat": 52.6081,
+    "lon": -1.6677,
+    "pop": 9358
+  },
+  "Lutterworth": {
+    "lat": 52.456,
+    "lon": -1.2,
+    "pop": 9353
+  },
+  "Sherborne": {
+    "lat": 50.9469,
+    "lon": -2.5171,
+    "pop": 9350
+  },
+  "Irthlingborough": {
+    "lat": 52.324,
+    "lon": -0.614,
+    "pop": 9325
+  },
+  "Polegate": {
+    "lat": 50.8216,
+    "lon": 0.2442,
+    "pop": 9300
+  },
+  "Ledbury": {
+    "lat": 52.0339,
+    "lon": -2.4235,
+    "pop": 9290
+  },
+  "Coleford": {
+    "lat": 51.791,
+    "lon": -2.6162,
+    "pop": 9273
+  },
+  "Crigglestone": {
+    "lat": 53.644,
+    "lon": -1.5225,
+    "pop": 9271
+  },
+  "Towcester": {
+    "lat": 52.13,
+    "lon": -0.99,
+    "pop": 9252
+  },
+  "Bowdon": {
+    "lat": 53.376,
+    "lon": -2.366,
+    "pop": 9228
+  },
+  "Clay Cross": {
+    "lat": 53.1637,
+    "lon": -1.4128,
+    "pop": 9222
+  },
+  "Bude": {
+    "lat": 50.824,
+    "lon": -4.542,
+    "pop": 9222
+  },
+  "Totnes": {
+    "lat": 50.432,
+    "lon": -3.684,
+    "pop": 9214
+  },
+  "Tilehurst": {
+    "lat": 51.4579,
+    "lon": -1.0406,
+    "pop": 9185
+  },
+  "Tiptree": {
+    "lat": 51.81,
+    "lon": 0.75,
+    "pop": 9182
+  },
+  "Yaxley": {
+    "lat": 52.52,
+    "lon": -0.26,
+    "pop": 9174
+  },
+  "Littleport": {
+    "lat": 52.4568,
+    "lon": 0.3046,
+    "pop": 9168
+  },
+  "Brandon": {
+    "lat": 52.4474,
+    "lon": 0.6242,
+    "pop": 9145
+  },
+  "Shanklin": {
+    "lat": 50.6333,
+    "lon": -1.175,
+    "pop": 9123
+  },
+  "Dinnington": {
+    "lat": 53.3667,
+    "lon": -1.2,
+    "pop": 9077
+  },
+  "Rye": {
+    "lat": 50.95,
+    "lon": 0.73,
+    "pop": 9041
+  },
+  "Barwell": {
+    "lat": 52.5682,
+    "lon": -1.3462,
+    "pop": 9022
+  },
+  "Bovingdon": {
+    "lat": 51.7231,
+    "lon": -0.5367,
+    "pop": 9000
+  },
+  "Sileby": {
+    "lat": 52.731,
+    "lon": -1.106,
+    "pop": 8959
+  },
+  "Broughton Astley": {
+    "lat": 52.5278,
+    "lon": -1.2275,
+    "pop": 8940
+  },
+  "Glastonbury": {
+    "lat": 51.1485,
+    "lon": -2.714,
+    "pop": 8932
+  },
+  "Great Cornard": {
+    "lat": 52.0245,
+    "lon": 0.7497,
+    "pop": 8908
+  },
+  "Caister-on-Sea": {
+    "lat": 52.651,
+    "lon": 1.733,
+    "pop": 8901
+  },
+  "Sandiacre": {
+    "lat": 52.923,
+    "lon": -1.289,
+    "pop": 8889
+  },
+  "Ifield": {
+    "lat": 51.1234,
+    "lon": -0.2073,
+    "pop": 8882
+  },
+  "Hucclecote": {
+    "lat": 51.85,
+    "lon": -2.18,
+    "pop": 8826
+  },
+  "Brimington": {
+    "lat": 53.258,
+    "lon": -1.3905,
+    "pop": 8788
+  },
+  "Cherry Hinton": {
+    "lat": 52.1849,
+    "lon": 0.176,
+    "pop": 8780
+  },
+  "Cinderford": {
+    "lat": 51.8225,
+    "lon": -2.4989,
+    "pop": 8777
+  },
+  "Binfield": {
+    "lat": 51.432,
+    "lon": -0.792,
+    "pop": 8689
+  },
+  "Atherstone": {
+    "lat": 52.5787,
+    "lon": -1.5462,
+    "pop": 8670
+  },
+  "Chapel en le Frith": {
+    "lat": 53.322,
+    "lon": -1.917,
+    "pop": 8635
+  },
+  "Stansted Mountfitchet": {
+    "lat": 51.898,
+    "lon": 0.198,
+    "pop": 8621
+  },
+  "Canford Cliffs": {
+    "lat": 50.7,
+    "lon": -1.93,
+    "pop": 8620
+  },
+  "Whitwick": {
+    "lat": 52.7403,
+    "lon": -1.3556,
+    "pop": 8612
+  },
+  "Waltham Cross": {
+    "lat": 51.686,
+    "lon": -0.0331,
+    "pop": 8577
+  },
+  "Sompting": {
+    "lat": 50.8303,
+    "lon": -0.3395,
+    "pop": 8561
+  },
+  "East Leake": {
+    "lat": 52.832,
+    "lon": -1.177,
+    "pop": 8553
+  },
+  "Meltham": {
+    "lat": 53.592,
+    "lon": -1.85,
+    "pop": 8534
+  },
+  "Worplesdon": {
+    "lat": 51.272,
+    "lon": -0.612,
+    "pop": 8529
+  },
+  "Penkridge": {
+    "lat": 52.7252,
+    "lon": -2.1164,
+    "pop": 8526
+  },
+  "Clayton le Moors": {
+    "lat": 53.775,
+    "lon": -2.384,
+    "pop": 8522
+  },
+  "Cam": {
+    "lat": 51.7011,
+    "lon": -2.3642,
+    "pop": 8520
+  },
+  "Oakengates": {
+    "lat": 52.695,
+    "lon": -2.451,
+    "pop": 8517
+  },
+  "Carlton Colville": {
+    "lat": 52.454,
+    "lon": 1.691,
+    "pop": 8505
+  }
+}

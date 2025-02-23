@@ -1,0 +1,19 @@
+:root {
+    -moz-osx-font-smoothing: grayscale;
+    max-width: 40em;
+    background-color: #fffff8;
+    --default-font-size: 13.5pt;
+    --default-line-height: 1.25rem;
+    --body-font-family: serif;
+    --title-font-family: sans-serif;
+}
+
+html {
+    line-height: var(--default-line-height);
+    font-size: var(--default-font-size);
+    font-family: var(--body-font-family);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--title-font-family);
+}

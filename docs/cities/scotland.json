@@ -1,0 +1,912 @@
+{
+  "Glasgow": {
+    "lat": 55.8611,
+    "lon": -4.25,
+    "pop": 626410
+  },
+  "Edinburgh": {
+    "lat": 55.9533,
+    "lon": -3.1892,
+    "pop": 488050
+  },
+  "Newcastle": {
+    "lat": 54.978,
+    "lon": -1.6102,
+    "pop": 300196
+  },
+  "Sunderland": {
+    "lat": 54.906,
+    "lon": -1.381,
+    "pop": 277417
+  },
+  "Aberdeen": {
+    "lat": 57.15,
+    "lon": -2.11,
+    "pop": 200680
+  },
+  "Dundee": {
+    "lat": 56.462,
+    "lon": -2.9707,
+    "pop": 148280
+  },
+  "Middlesbrough": {
+    "lat": 54.5767,
+    "lon": -1.2355,
+    "pop": 140545
+  },
+  "Gateshead": {
+    "lat": 54.9556,
+    "lon": -1.6,
+    "pop": 120046
+  },
+  "Darlington": {
+    "lat": 54.527,
+    "lon": -1.5526,
+    "pop": 93015
+  },
+  "Hartlepool": {
+    "lat": 54.69,
+    "lon": -1.21,
+    "pop": 87995
+  },
+  "Stockton-on-Tees": {
+    "lat": 54.57,
+    "lon": -1.32,
+    "pop": 82729
+  },
+  "Paisley": {
+    "lat": 55.8456,
+    "lon": -4.4239,
+    "pop": 77220
+  },
+  "Carlisle": {
+    "lat": 54.8947,
+    "lon": -2.9364,
+    "pop": 75399
+  },
+  "South Shields": {
+    "lat": 54.995,
+    "lon": -1.43,
+    "pop": 75337
+  },
+  "East Kilbride": {
+    "lat": 55.7644,
+    "lon": -4.1769,
+    "pop": 75120
+  },
+  "Tynemouth": {
+    "lat": 55.017,
+    "lon": -1.423,
+    "pop": 68202
+  },
+  "Washington": {
+    "lat": 54.9,
+    "lon": -1.52,
+    "pop": 67158
+  },
+  "Hamilton": {
+    "lat": 55.777,
+    "lon": -4.039,
+    "pop": 53188
+  },
+  "Dunfermline": {
+    "lat": 56.0719,
+    "lon": -3.4393,
+    "pop": 53100
+  },
+  "Cumbernauld": {
+    "lat": 55.945,
+    "lon": -3.994,
+    "pop": 50920
+  },
+  "Livingston": {
+    "lat": 55.8834,
+    "lon": -3.5157,
+    "pop": 50826
+  },
+  "Leith": {
+    "lat": 55.98,
+    "lon": -3.17,
+    "pop": 50030
+  },
+  "Kirkcaldy": {
+    "lat": 56.1107,
+    "lon": -3.1674,
+    "pop": 48108
+  },
+  "Durham": {
+    "lat": 54.7761,
+    "lon": -1.5733,
+    "pop": 48069
+  },
+  "Perth": {
+    "lat": 56.3958,
+    "lon": -3.4333,
+    "pop": 47430
+  },
+  "Ayr": {
+    "lat": 55.458,
+    "lon": -4.629,
+    "pop": 46780
+  },
+  "Kilmarnock": {
+    "lat": 55.6111,
+    "lon": -4.4957,
+    "pop": 46350
+  },
+  "Coatbridge": {
+    "lat": 55.8625,
+    "lon": -4.0266,
+    "pop": 43960
+  },
+  "Wallsend": {
+    "lat": 54.991,
+    "lon": -1.534,
+    "pop": 43826
+  },
+  "Greenock": {
+    "lat": 55.95,
+    "lon": -4.765,
+    "pop": 41990
+  },
+  "Inverness": {
+    "lat": 57.4778,
+    "lon": -4.2247,
+    "pop": 40011
+  },
+  "Glenrothes": {
+    "lat": 56.198,
+    "lon": -3.178,
+    "pop": 38510
+  },
+  "Stirling": {
+    "lat": 56.1166,
+    "lon": -3.9369,
+    "pop": 37610
+  },
+  "Airdrie": {
+    "lat": 55.86,
+    "lon": -3.98,
+    "pop": 37410
+  },
+  "Blyth": {
+    "lat": 55.126,
+    "lon": -1.514,
+    "pop": 37339
+  },
+  "Redcar": {
+    "lat": 54.618,
+    "lon": -1.069,
+    "pop": 37073
+  },
+  "Houghton le Spring": {
+    "lat": 54.841,
+    "lon": -1.468,
+    "pop": 36746
+  },
+  "Whitley Bay": {
+    "lat": 55.0456,
+    "lon": -1.4443,
+    "pop": 36623
+  },
+  "Falkirk": {
+    "lat": 56.0011,
+    "lon": -3.7835,
+    "pop": 35850
+  },
+  "Billingham": {
+    "lat": 54.61,
+    "lon": -1.27,
+    "pop": 35165
+  },
+  "North Shields": {
+    "lat": 55.0097,
+    "lon": -1.4448,
+    "pop": 34423
+  },
+  "Irvine": {
+    "lat": 55.6201,
+    "lon": -4.6614,
+    "pop": 33698
+  },
+  "Motherwell": {
+    "lat": 55.7839,
+    "lon": -3.9852,
+    "pop": 32590
+  },
+  "Dumfries": {
+    "lat": 55.07,
+    "lon": -3.603,
+    "pop": 32379
+  },
+  "Rutherglen": {
+    "lat": 55.828,
+    "lon": -4.214,
+    "pop": 31190
+  },
+  "Wishaw": {
+    "lat": 55.7742,
+    "lon": -3.9183,
+    "pop": 30290
+  },
+  "Cramlington": {
+    "lat": 55.082,
+    "lon": -1.585,
+    "pop": 29405
+  },
+  "Cambuslang": {
+    "lat": 55.819,
+    "lon": -4.1671,
+    "pop": 29100
+  },
+  "Bearsden": {
+    "lat": 55.9195,
+    "lon": -4.3337,
+    "pop": 28120
+  },
+  "Ashington": {
+    "lat": 55.181,
+    "lon": -1.568,
+    "pop": 27764
+  },
+  "Jarrow": {
+    "lat": 54.9814,
+    "lon": -1.49,
+    "pop": 27526
+  },
+  "Shotley Bridge": {
+    "lat": 54.87,
+    "lon": -1.86,
+    "pop": 27394
+  },
+  "Newton Mearns": {
+    "lat": 55.7716,
+    "lon": -4.3347,
+    "pop": 26600
+  },
+  "Newton Aycliffe": {
+    "lat": 54.62,
+    "lon": -1.58,
+    "pop": 26415
+  },
+  "Clydebank": {
+    "lat": 55.8997,
+    "lon": -4.4006,
+    "pop": 26320
+  },
+  "Consett": {
+    "lat": 54.85,
+    "lon": -1.83,
+    "pop": 25812
+  },
+  "Bishop Auckland": {
+    "lat": 54.663,
+    "lon": -1.676,
+    "pop": 25455
+  },
+  "Workington": {
+    "lat": 54.6365,
+    "lon": -3.5549,
+    "pop": 25207
+  },
+  "Whitehaven": {
+    "lat": 54.548,
+    "lon": -3.5855,
+    "pop": 25032
+  },
+  "Thornaby on Tees": {
+    "lat": 54.5585,
+    "lon": -1.3025,
+    "pop": 24741
+  },
+  "Chester-le-Street": {
+    "lat": 54.8594,
+    "lon": -1.5699,
+    "pop": 24227
+  },
+  "Arbroath": {
+    "lat": 56.561,
+    "lon": -2.586,
+    "pop": 23940
+  },
+  "Gosforth": {
+    "lat": 55.007,
+    "lon": -1.623,
+    "pop": 23620
+  },
+  "Bishopbriggs": {
+    "lat": 55.9046,
+    "lon": -4.225,
+    "pop": 23540
+  },
+  "Elgin": {
+    "lat": 57.6486,
+    "lon": -3.3153,
+    "pop": 23128
+  },
+  "Bathgate": {
+    "lat": 55.9024,
+    "lon": -3.6431,
+    "pop": 22920
+  },
+  "Renfrew": {
+    "lat": 55.878,
+    "lon": -4.389,
+    "pop": 21854
+  },
+  "Bailleston": {
+    "lat": 55.8474,
+    "lon": -4.1147,
+    "pop": 21663
+  },
+  "Kirkintilloch": {
+    "lat": 55.938,
+    "lon": -4.155,
+    "pop": 21380
+  },
+  "Musselburgh": {
+    "lat": 55.942,
+    "lon": -3.054,
+    "pop": 20840
+  },
+  "Norton": {
+    "lat": 54.589,
+    "lon": -1.3157,
+    "pop": 20829
+  },
+  "Dumbarton": {
+    "lat": 55.95,
+    "lon": -4.5667,
+    "pop": 20560
+  },
+  "Bellshill": {
+    "lat": 55.816,
+    "lon": -4.026,
+    "pop": 20290
+  },
+  "Seaham": {
+    "lat": 54.84,
+    "lon": -1.34,
+    "pop": 20172
+  },
+  "Peterlee": {
+    "lat": 54.76,
+    "lon": -1.33,
+    "pop": 20164
+  },
+  "Killingworth": {
+    "lat": 55.0318,
+    "lon": -1.5557,
+    "pop": 20079
+  },
+  "Spennymoor": {
+    "lat": 54.7,
+    "lon": -1.59,
+    "pop": 19816
+  },
+  "Peterhead": {
+    "lat": 57.5091,
+    "lon": -1.7832,
+    "pop": 19270
+  },
+  "Monkseaton": {
+    "lat": 55.043,
+    "lon": -1.459,
+    "pop": 19044
+  },
+  "Broughty Ferry": {
+    "lat": 56.4672,
+    "lon": -2.8699,
+    "pop": 18659
+  },
+  "Bedlington": {
+    "lat": 55.133,
+    "lon": -1.583,
+    "pop": 18470
+  },
+  "Barrhead": {
+    "lat": 55.801,
+    "lon": -4.389,
+    "pop": 17610
+  },
+  "Saint Andrews": {
+    "lat": 56.3404,
+    "lon": -2.7955,
+    "pop": 17580
+  },
+  "Bonnyrigg": {
+    "lat": 55.8747,
+    "lon": -3.1031,
+    "pop": 17530
+  },
+  "Guisborough": {
+    "lat": 54.535,
+    "lon": -1.0563,
+    "pop": 16979
+  },
+  "High Blantyre": {
+    "lat": 55.7936,
+    "lon": -4.0919,
+    "pop": 16900
+  },
+  "Whickham": {
+    "lat": 54.946,
+    "lon": -1.6761,
+    "pop": 16652
+  },
+  "Grangemouth": {
+    "lat": 56.012,
+    "lon": -3.717,
+    "pop": 16650
+  },
+  "Hebburn": {
+    "lat": 54.972,
+    "lon": -1.513,
+    "pop": 16492
+  },
+  "Kilwinning": {
+    "lat": 55.655,
+    "lon": -4.703,
+    "pop": 16460
+  },
+  "Johnstone": {
+    "lat": 55.8346,
+    "lon": -4.5027,
+    "pop": 16090
+  },
+  "Penicuik": {
+    "lat": 55.826,
+    "lon": -3.22,
+    "pop": 15926
+  },
+  "Broxburn": {
+    "lat": 55.934,
+    "lon": -3.471,
+    "pop": 15440
+  },
+  "Blaydon": {
+    "lat": 54.963,
+    "lon": -1.719,
+    "pop": 15155
+  },
+  "Bo\u2019ness": {
+    "lat": 56.0168,
+    "lon": -3.6089,
+    "pop": 14760
+  },
+  "Penrith": {
+    "lat": 54.6648,
+    "lon": -2.7548,
+    "pop": 14756
+  },
+  "Larkhall": {
+    "lat": 55.737,
+    "lon": -3.972,
+    "pop": 14740
+  },
+  "Prestwick": {
+    "lat": 55.4956,
+    "lon": -4.6142,
+    "pop": 14720
+  },
+  "Troon": {
+    "lat": 55.54,
+    "lon": -4.66,
+    "pop": 14710
+  },
+  "Port Glasgow": {
+    "lat": 55.934,
+    "lon": -4.6906,
+    "pop": 14620
+  },
+  "Alloa": {
+    "lat": 56.116,
+    "lon": -3.793,
+    "pop": 14440
+  },
+  "Hetton le Hole": {
+    "lat": 54.821,
+    "lon": -1.449,
+    "pop": 14402
+  },
+  "Pollokshaws": {
+    "lat": 55.8252,
+    "lon": -4.2947,
+    "pop": 14295
+  },
+  "Forfar": {
+    "lat": 56.6442,
+    "lon": -2.8884,
+    "pop": 14230
+  },
+  "Morpeth": {
+    "lat": 55.1675,
+    "lon": -1.6908,
+    "pop": 14017
+  },
+  "Rosyth": {
+    "lat": 56.0339,
+    "lon": -3.4323,
+    "pop": 13780
+  },
+  "Hawick": {
+    "lat": 55.422,
+    "lon": -2.787,
+    "pop": 13740
+  },
+  "Helensburgh": {
+    "lat": 56.0166,
+    "lon": -4.7333,
+    "pop": 13640
+  },
+  "Whitby": {
+    "lat": 54.4858,
+    "lon": -0.6206,
+    "pop": 13594
+  },
+  "Dalkeith": {
+    "lat": 55.8958,
+    "lon": -3.0583,
+    "pop": 13400
+  },
+  "Carluke": {
+    "lat": 55.734,
+    "lon": -3.834,
+    "pop": 13320
+  },
+  "Shiremoor": {
+    "lat": 55.0366,
+    "lon": -1.5048,
+    "pop": 13300
+  },
+  "West Boldon": {
+    "lat": 54.945,
+    "lon": -1.441,
+    "pop": 13271
+  },
+  "Linlithgow": {
+    "lat": 55.9791,
+    "lon": -3.6105,
+    "pop": 13260
+  },
+  "Fraserburgh": {
+    "lat": 57.693,
+    "lon": -2.005,
+    "pop": 13180
+  },
+  "Galashiels": {
+    "lat": 55.6194,
+    "lon": -2.8033,
+    "pop": 13000
+  },
+  "Milngavie": {
+    "lat": 55.9421,
+    "lon": -4.3137,
+    "pop": 12795
+  },
+  "Saltcoats": {
+    "lat": 55.6352,
+    "lon": -4.7896,
+    "pop": 12640
+  },
+  "Armadale": {
+    "lat": 55.8978,
+    "lon": -3.7047,
+    "pop": 12550
+  },
+  "Giffnock": {
+    "lat": 55.8051,
+    "lon": -4.2946,
+    "pop": 12300
+  },
+  "Tranent": {
+    "lat": 55.945,
+    "lon": -2.954,
+    "pop": 12140
+  },
+  "Montrose": {
+    "lat": 56.708,
+    "lon": -2.467,
+    "pop": 12100
+  },
+  "Berwick-Upon-Tweed": {
+    "lat": 55.7692,
+    "lon": -2.0025,
+    "pop": 12043
+  },
+  "Prudhoe": {
+    "lat": 54.961,
+    "lon": -1.849,
+    "pop": 11675
+  },
+  "Cowdenbeath": {
+    "lat": 56.11,
+    "lon": -3.35,
+    "pop": 11640
+  },
+  "Carnoustie": {
+    "lat": 56.501,
+    "lon": -2.71,
+    "pop": 11360
+  },
+  "Maryport": {
+    "lat": 54.7128,
+    "lon": -3.4926,
+    "pop": 11262
+  },
+  "Largs": {
+    "lat": 55.795,
+    "lon": -4.87,
+    "pop": 11260
+  },
+  "Stonehaven": {
+    "lat": 56.964,
+    "lon": -2.211,
+    "pop": 11170
+  },
+  "Hexham": {
+    "lat": 54.971,
+    "lon": -2.101,
+    "pop": 11139
+  },
+  "Larbert": {
+    "lat": 56.0229,
+    "lon": -3.826,
+    "pop": 11050
+  },
+  "Ponteland": {
+    "lat": 55.048,
+    "lon": -1.747,
+    "pop": 10921
+  },
+  "Inverurie": {
+    "lat": 57.28,
+    "lon": -2.38,
+    "pop": 10885
+  },
+  "Whitburn": {
+    "lat": 55.8621,
+    "lon": -3.6872,
+    "pop": 10860
+  },
+  "Methil": {
+    "lat": 56.1844,
+    "lon": -3.0223,
+    "pop": 10800
+  },
+  "Ormesby": {
+    "lat": 54.5492,
+    "lon": -1.1817,
+    "pop": 10714
+  },
+  "Ardrossan": {
+    "lat": 55.6432,
+    "lon": -4.8097,
+    "pop": 10670
+  },
+  "Longbenton": {
+    "lat": 55.0,
+    "lon": -1.57,
+    "pop": 10617
+  },
+  "Southwick": {
+    "lat": 54.9193,
+    "lon": -1.4062,
+    "pop": 10535
+  },
+  "Ryhope": {
+    "lat": 54.8679,
+    "lon": -1.3698,
+    "pop": 10484
+  },
+  "Prestonpans": {
+    "lat": 55.9597,
+    "lon": -2.961,
+    "pop": 10410
+  },
+  "Gourock": {
+    "lat": 55.9538,
+    "lon": -4.8173,
+    "pop": 10350
+  },
+  "Stranraer": {
+    "lat": 54.902,
+    "lon": -5.027,
+    "pop": 10320
+  },
+  "Lemington": {
+    "lat": 54.972,
+    "lon": -1.723,
+    "pop": 10228
+  },
+  "Ellon": {
+    "lat": 57.366,
+    "lon": -2.086,
+    "pop": 10200
+  },
+  "New Silksworth": {
+    "lat": 54.871,
+    "lon": -1.3957,
+    "pop": 10194
+  },
+  "Fort William": {
+    "lat": 56.8198,
+    "lon": -5.1052,
+    "pop": 10175
+  },
+  "Forres": {
+    "lat": 57.608,
+    "lon": -3.62,
+    "pop": 10100
+  },
+  "Kilsyth": {
+    "lat": 55.98,
+    "lon": -4.06,
+    "pop": 10080
+  },
+  "Marton": {
+    "lat": 54.5372,
+    "lon": -1.2047,
+    "pop": 9990
+  },
+  "Shildon": {
+    "lat": 54.63,
+    "lon": -1.65,
+    "pop": 9976
+  },
+  "Nairn": {
+    "lat": 57.586,
+    "lon": -3.869,
+    "pop": 9960
+  },
+  "Choppington": {
+    "lat": 55.145,
+    "lon": -1.601,
+    "pop": 9787
+  },
+  "Yarm": {
+    "lat": 54.5,
+    "lon": -1.35,
+    "pop": 9600
+  },
+  "Newburn": {
+    "lat": 54.983,
+    "lon": -1.743,
+    "pop": 9536
+  },
+  "Dunblane": {
+    "lat": 56.1838,
+    "lon": -3.9674,
+    "pop": 9410
+  },
+  "Queensferry": {
+    "lat": 55.99,
+    "lon": -3.398,
+    "pop": 9350
+  },
+  "Stevenston": {
+    "lat": 55.645,
+    "lon": -4.758,
+    "pop": 9230
+  },
+  "Cullercoats": {
+    "lat": 55.033,
+    "lon": -1.433,
+    "pop": 9202
+  },
+  "Haddington": {
+    "lat": 55.956,
+    "lon": -2.781,
+    "pop": 9130
+  },
+  "Usworth": {
+    "lat": 54.94,
+    "lon": -1.55,
+    "pop": 9100
+  },
+  "Portlethen": {
+    "lat": 57.061,
+    "lon": -2.13,
+    "pop": 9090
+  },
+  "Bonhill": {
+    "lat": 55.983,
+    "lon": -4.567,
+    "pop": 9050
+  },
+  "Lanark": {
+    "lat": 55.6749,
+    "lon": -3.777,
+    "pop": 9050
+  },
+  "Leven": {
+    "lat": 56.195,
+    "lon": -2.9942,
+    "pop": 9040
+  },
+  "Dunbar": {
+    "lat": 56.0027,
+    "lon": -2.5169,
+    "pop": 9030
+  },
+  "Blairgowrie": {
+    "lat": 56.5916,
+    "lon": -3.3405,
+    "pop": 9020
+  },
+  "Cupar": {
+    "lat": 56.32,
+    "lon": -3.01,
+    "pop": 9020
+  },
+  "Ferryhill": {
+    "lat": 54.69,
+    "lon": -1.55,
+    "pop": 8942
+  },
+  "Peebles": {
+    "lat": 55.6519,
+    "lon": -3.1889,
+    "pop": 8940
+  },
+  "Felling": {
+    "lat": 54.95,
+    "lon": -1.564,
+    "pop": 8908
+  },
+  "Partick": {
+    "lat": 55.8699,
+    "lon": -4.3125,
+    "pop": 8884
+  },
+  "Cumnock": {
+    "lat": 55.4529,
+    "lon": -4.2638,
+    "pop": 8830
+  },
+  "Annan": {
+    "lat": 54.983,
+    "lon": -3.266,
+    "pop": 8780
+  },
+  "Cockermouth": {
+    "lat": 54.6613,
+    "lon": -3.362,
+    "pop": 8761
+  },
+  "Buckie": {
+    "lat": 57.6764,
+    "lon": -2.965,
+    "pop": 8640
+  },
+  "Bucksburn": {
+    "lat": 57.177,
+    "lon": -2.175,
+    "pop": 8572
+  },
+  "Kirk of Shotts": {
+    "lat": 55.823,
+    "lon": -3.804,
+    "pop": 8570
+  },
+  "West Auckland": {
+    "lat": 54.6318,
+    "lon": -1.721,
+    "pop": 8509
+  },
+  "Kirkwall": {
+    "lat": 58.981,
+    "lon": -2.96,
+    "pop": 7420
+  },
+  "Wick": {
+    "lat": 58.454,
+    "lon": -3.089,
+    "pop": 7030
+  },
+  "Lerwick": {
+    "lat": 60.155,
+    "lon": -1.145,
+    "pop": 6880
+  }
+}

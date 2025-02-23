@@ -1,0 +1,13 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8" />
+<title>Welcome to our server</title>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<h1>Welcome to our server</h1>
+
+<p>This is an HTML page. It’s not very <em>interesting</em>.</p>
+
+</body>
+</html>

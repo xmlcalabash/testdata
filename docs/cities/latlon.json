@@ -1,0 +1,78 @@
+{
+  "Aberdeen": {
+    "lat": 57.1496,
+    "lon": -2.0990
+  },
+  "Bath": {
+    "lat": 51.3800,
+    "lon": -2.3600
+  },
+  "Belfast": {
+    "lat": 54.6078,
+    "lon": -5.9264
+  },
+  "Birmingham": {
+    "lat": 52.4894,
+    "lon": -1.8985
+  },
+  "Cambridge": {
+    "lat": 52.2052,
+    "lon": 0.1191
+  },
+  "Canterbury": {
+    "lat": 51.2799,
+    "lon": 1.0800
+  },
+  "Cardiff": {
+    "lat": 51.4815,
+    "lon": -3.1790
+  },
+  "Carlisle": {
+    "lat": 54.8909,
+    "lon": -2.9440
+  },
+  "Coventry": {
+    "lat": 52.4080,
+    "lon": -1.5105
+  },
+  "Edinburgh": {
+    "lat": 55.9532,
+    "lon": -3.1882
+  },
+  "Glasgow": {
+    "lat": 55.8609,
+    "lon": -4.2514
+  },
+  "Gloucester": {
+    "lat": 51.8644,
+    "lon": -2.2444
+  },
+  "Leicester": {
+    "lat": 52.6333,
+    "lon": -1.1333
+  },
+  "Liverpool": {
+    "lat": 53.4000,
+    "lon": -2.9833
+  },
+  "London": {
+    "lat": 51.5098,
+    "lon": -0.1180
+  },
+  "Oxford": {
+    "lat": 51.7520,
+    "lon": -1.2576
+  },
+  "Swansea": {
+    "lat": 51.6214,
+    "lon": -3.9436
+  },
+  "Winchester": {
+    "lat": 51.0632,
+    "lon": -1.3080
+  },
+  "York": {
+    "lat": 53.9583,
+    "lon": -1.0802
+  }
+}

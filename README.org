@@ -10,3 +10,5 @@ This repository hosts a few test files and some examples that are used in the
 documentation and perhaps in other places.
 
 There’s probably nothing here that’s interesting on its own.
+
+The website https://testdata.xmlcalabash.com/ points to the content in the ~/docs~ directory.
