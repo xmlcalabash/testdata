@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       D70A568C-E9C9-45E4-B86B-403B93B1756E
+:END:
+#+title: README
+#+date: <2025-02-23 Sun>
+#+author: Norm Tovey-Walsh
+#+startup: showall
+
+This repository hosts a few test files and some examples that are used in the
+documentation and perhaps in other places.
+
+There’s probably nothing here that’s interesting on its own.
