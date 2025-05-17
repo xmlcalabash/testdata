@@ -28,6 +28,11 @@ tbody tr td:nth-child(2) {
     text-align: left;
     padding-left: 1em;
     padding-right: 1em;
+    width: 12em;
+}
+
+thead tr th:nth-child(2),
+tbody tr td:nth-child(2) {
     width: 8em;
 }
 

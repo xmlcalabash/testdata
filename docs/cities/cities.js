@@ -3,7 +3,7 @@
   let pos = host.indexOf("/");
   host = host.substring(0, pos);
   const pagesize = 15;
-  let limit = pagesize;
+  let start = 1;
   let cities = [];
   let data = {};
 
@@ -49,14 +49,16 @@
     let html = "<thead><tr><th>City</th><th>Country</th><th>Latitude</th><th>Longitude</th></tr></thead>";
     html += "<tbody>";
 
-    let count = 1;
+    count = 1;
     for (city of cities) {
-      html += `<tr><td>${city}</td>`;
-      html += `<td>${data[city].country}</td>`;
-      html += `<td>${prettyPad(data[city].lat)}</td>`;
-      html += `<td>${prettyPad(data[city].lon)}</td></tr>`;
+      if (count >= start) {
+        html += `<tr><td>${city}</td>`;
+        html += `<td>${data[city].country}</td>`;
+        html += `<td>${prettyPad(data[city].lat)}</td>`;
+        html += `<td>${prettyPad(data[city].lon)}</td></tr>`;
+      }
       count += 1;
-      if (count > limit) {
+      if (count > start + pagesize) {
         break;
       }
     }
@@ -84,7 +86,7 @@
       showRows()
 
       document.querySelector("#more").addEventListener("click", event => {
-        limit += pagesize;
+        start += pagesize + 1;
         showRows();
       });
     });
